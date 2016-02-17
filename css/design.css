@@ -12,7 +12,13 @@ nav li a{
     text-transform: uppercase;
     font-family: Arial, sans-serif;
     font-size: medium;
+    text-align: center;
+}
+
+nav li .lien_accueil{
+    font-size: large;
 }
 
 nav.navbar li a:hover, nav.navbar li a:focus{
+
 }
