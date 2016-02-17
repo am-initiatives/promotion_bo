@@ -1,24 +1,45 @@
+html {
+    width: 100%;
+    height: 100%;
+}
 body{
     color: black;
+    width: 100%;
+    height: 100%;
 }
-
 nav.navbar{
     border-radius: 0;
     margin: 0;
+    min-height: 0;
 }
-
 nav li a{
-    color: rgb(77,77,77);
+    color: rgb(0,0,0);
     text-transform: uppercase;
     font-family: Arial, sans-serif;
     font-size: medium;
     text-align: center;
 }
+nav.navbar li.lien_accueil{
 
-nav li .lien_accueil{
-    font-size: large;
 }
-
+nav.navbar li.lien_logement{
+    border-bottom: 3px solid red;
+}
+nav.navbar li.lien_campus{
+    border-bottom: 3px solid purple;
+}
+nav.navbar li.lien_ve{
+    border-bottom: 3px solid green;
+}
+nav.navbar li.lien_etudes{
+    border-bottom: 3px solid blue;
+}
 nav.navbar li a:hover, nav.navbar li a:focus{
-
+    background-color: white;
+}
+section{
+    background-color: #F7F5F5;
+    min-height: 100%;
+    width: 100%;
+    padding-top: 20px;
 }
