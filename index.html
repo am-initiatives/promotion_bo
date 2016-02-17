@@ -16,13 +16,14 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/design.css" rel="stylesheet">
 
-    <!-- Font Awesome -->
+    <!-- Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
 
     <!-- Support HTML5 pour IE -->
     <!--[if lt IE 9]>
-        <script src="js/html5shiv.js"></script>
-        <script src="js/respond.min.js"></script>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
     <![endif]-->
 
 </head>
@@ -30,7 +31,7 @@
 <body id="page-top" class="index">
 
     <!-- Navigation -->
-    <nav class="navbar">
+    <nav class="navbar-default">
         <div class="container">
             <!-- Gestion du menu déroulant sur mobile -->
             <div class="navbar-header page-scroll">
@@ -44,26 +45,32 @@
 
             <!-- Liens du menu -->
             <div class="collapse navbar-collapse" id="menu">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="">Logement</a>
+                <ul class="nav">
+                    <li class="col-md-2 col-md-offset-1 lien_logement">
+                        <a href="logement.html">Logement</a>
                     </li>
-                    <li>
-                        <a href="">Campus</a>
+                    <li class="col-md-2 lien_campus">
+                        <a href="campus.html">Campus</a>
                     </li>
-                    <li>
-                        <a href="index.html">Accueil</a>
+                    <li class="col-md-2 lien_accueil">
+                        <a href="#page-top" class="active">Accueil</a>
                     </li>
-                    <li>
+                    <li class="col-md-2 lien_ve">
                         <a href="vie_asso.html">Vie Etudiante</a>
                     </li>
-                    <li>
-                        <a href="">Etudes</a>
+                    <li class="col-md-2 lien_etudes">
+                        <a href="etudes.html">Etudes</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
+
+    <section class="test">
+        <div class="container">
+
+        </div>
+    </section>
 
     <!-- Pied de page -->
     <footer class="">
