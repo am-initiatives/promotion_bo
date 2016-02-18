@@ -32,7 +32,6 @@ nav li.lien_etudes{
 nav li a{
     color: rgb(0,0,0);
     text-transform: uppercase;
-    font-family: "Source Sans Pro", sans-serif;
     font-size: large;
     font-weight: 300;
     text-align: center;
@@ -90,4 +89,22 @@ section{
     width: 100%;
     padding-top: 30px;
     background-color: #f7f5f5;
+}
+
+/* Design général */
+
+#logement .text-couleur{
+    color: #ff3366;
+}
+.chiffres_cles{
+    text-align: center;
+}
+.chiffres_cles span{
+    line-height:100%;
+}
+.text-light{
+    font-weight: 300;
+}
+.text-bold{
+    font-weight: 600;
 }
