@@ -85,9 +85,9 @@ nav #sous_menu_etudes li a:hover, nav #sous_menu_etudes li a:focus, nav #sous_me
 /* Corps de page général */
 
 section{
-    min-height: 30%;
     width: 100%;
     padding-top: 30px;
+    padding-bottom: 20px;
     background-color: #f7f5f5;
 }
 
