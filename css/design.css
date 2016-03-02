@@ -88,13 +88,34 @@ section{
     width: 100%;
     padding-top: 30px;
     padding-bottom: 20px;
-    background-color: #f7f5f5;
+}
+section .titre_section{
+    margin-top: 180px;
+    transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    text-transform: uppercase;
 }
 
 /* Design général */
 
+.bg_beige{
+    background-color: #f7f5f5;
+}
 #logement .text-couleur{
     color: #ff3366;
+}
+#logement .bords_ronds{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    border: solid #ff3366 2px;
+    border-radius: 10px;
+}
+#logement .logo_services{
+    height:50px;
+    max-width: 100px;
 }
 .chiffres_cles{
     text-align: center;
