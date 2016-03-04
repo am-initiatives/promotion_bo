@@ -40,8 +40,8 @@ nav li.lien_accueil a{
     font-weight: 600;
 }
 nav li a:hover, nav.navbar li a:focus{
-    transition: background 1s;
-    -webkit-animation: background ease 1s;
+    transition: background 0.5s;
+    -webkit-animation: background ease 0.5s;
 }
 nav li.lien_logement a:hover, nav.navbar li.lien_logement a:focus, nav li.lien_logement a.active{
     background: #ff3366;
@@ -96,6 +96,9 @@ section .titre_section{
     -moz-transform: rotate(-90deg);
     -webkit-transform: rotate(-90deg);
     text-transform: uppercase;
+}
+#section_services h5{
+    margin-bottom: 0;
 }
 
 /* Design général */
