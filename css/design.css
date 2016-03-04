@@ -117,6 +117,9 @@ section .titre_section{
     height:50px;
     max-width: 100px;
 }
+#associations #section_associations .row{
+    margin-bottom: 20px;
+}
 .chiffres_cles{
     text-align: center;
 }
