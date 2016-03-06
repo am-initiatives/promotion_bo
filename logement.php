@@ -1,70 +1,8 @@
-<!DOCTYPE html>
-<html lang="fr">
-
-<head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Site présentant le campus des Arts et Métiers de Bordeaux">
-    <meta name="keywords" content="arts, métiers, metiers, gadzart, gadz'art, gadzarts, gadz'arts, bordeaux, talence, ensam bordeaux, ensam talence, ensam, am" >
-    <meta name="author" content="Paul DERIVAUX">
-
-    <title>Étudier aux Arts et Métiers - Bordeaux Talence</title>
-
-    <!-- CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/design.css" rel="stylesheet">
-
-    <!-- Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
-
-    <!-- Support HTML5 pour IE -->
-    <!--[if lt IE 9]>
-        <script src="js/html5shiv.js"></script>
-        <script src="js/respond.min.js"></script>
-    <![endif]-->
-
-</head>
+<?php include("_header.php"); ?>
 
 <body id="logement" class="index">
 
-    <!-- Navigation -->
-    <nav class="navbar-default">
-        <div class="container">
-            <!-- Gestion du menu déroulant sur mobile -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
-
-            <!-- Liens du menu -->
-            <div class="collapse navbar-collapse" id="menu">
-                <ul class="nav">
-                    <li class="col-md-2 col-md-offset-1 lien_logement">
-                        <a href="#logement" class="active">Logement</a>
-                    </li>
-                    <li class="col-md-2 lien_campus">
-                        <a href="campus.html">Campus</a>
-                    </li>
-                    <li class="col-md-2 lien_accueil">
-                        <a href="index.html">Accueil</a>
-                    </li>
-                    <li class="col-md-2 lien_ve">
-                        <a href="associations.html">Vie Etudiante</a>
-                    </li>
-                    <li class="col-md-2 lien_etudes">
-                        <a href="etudes.html">Etudes</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+    <?php include("_navbar.php"); ?>
 
     <nav class="navbar-default">
         <div class="container">

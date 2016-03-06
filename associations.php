@@ -1,0 +1,85 @@
+<?php include("_header.php"); ?>
+
+<body id="associations" class="index">
+
+    <?php include("_navbar.php"); ?>
+
+    <nav class="navbar-default">
+        <div class="container">
+            <!-- Liens du sous menu -->
+            <div id="sous_menu_vie_asso">
+                <ul class="nav">
+                    <li class="col-md-2 col-md-offset-3">
+                        <a href="#associations" class="active">Associations</a>
+                    </li>
+                    <li class="col-md-2 ">
+                        <a href="">Sport</a>
+                    </li>
+                    <li class="col-md-2">
+                        <a href="" class="">Evenements</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <section id="section_associations" class="bg_beige text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/amje.jpg" class="col-xs-12 img-responsive"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/artsetvins.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/aumonerie.jpg" class="col-xs-12 img-responsive"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/best.jpg" class="col-xs-12"></a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/btk.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/ems.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/gasole.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/mash.jpg" class="col-xs-12"></a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/journal.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/artsetvins.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/artsetvins.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="" class="cadre_logo"><img src="img/associations/voile.jpg" class="col-xs-12"></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pied de page -->
+    <footer class="">
+        <div class="container">
+
+        </div>
+    </footer>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
