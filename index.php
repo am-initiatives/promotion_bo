@@ -1,3 +1,8 @@
+<?php $page="accueil";?>
+
+<!DOCTYPE html>
+<html lang="fr">
+
 <?php include("_header.php"); ?>
 
 <body id="page-top" class="index">

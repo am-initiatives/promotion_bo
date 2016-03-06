@@ -1,3 +1,8 @@
+<?php $page="logement";?>
+
+<!DOCTYPE html>
+<html lang="fr">
+
 <?php include("_header.php"); ?>
 
 <body id="logement" class="index">

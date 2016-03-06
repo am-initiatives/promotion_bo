@@ -1,3 +1,8 @@
+<?php $page="associations";?>
+
+<!DOCTYPE html>
+<html lang="fr">
+
 <?php include("_header.php"); ?>
 
 <body id="associations" class="index">
