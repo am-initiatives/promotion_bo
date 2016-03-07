@@ -75,6 +75,15 @@
         </div>
     </section>
 
+    <section id="section_associations">
+        <div class="container">
+            <div class="row">
+                <h2 class="text-couleur">A Propos de l'association des élèves</h2>
+                <p></p>
+            </div>
+        </div>
+    </section>
+
     <!-- Pied de page -->
     <footer class="">
         <div class="container">

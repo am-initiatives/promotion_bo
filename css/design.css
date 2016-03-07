@@ -124,6 +124,15 @@ section#section_associations .cadre_logo img{
 #logement .text-couleur{
     color: #ff3366;
 }
+#campus .text-couleur{
+    color: #ff9966;
+}
+#associations .text-couleur{
+    color: #3cd09e;
+}
+#etudes .text-couleur{
+    color: #3dcae3;
+}
 #logement .bords_ronds{
     padding-left: 10px;
     padding-right: 10px;
