@@ -15,13 +15,13 @@
             <div id="sous_menu_etudes">
                 <ul class="nav">
                     <li class="col-md-2 col-md-offset-3">
-                        <a href="#page-top" class="active">?????</a>
+                        <a href="#page-top" class="active">Cursus</a>
                     </li>
                     <li class="col-md-2 ">
-                        <a href="">?????</a>
+                        <a href="">Ecole</a>
                     </li>
                     <li class="col-md-2">
-                        <a href="" class="">?????</a>
+                        <a href="">International</a>
                     </li>
                 </ul>
             </div>
@@ -34,12 +34,7 @@
         </div>
     </section>
 
-    <!-- Pied de page -->
-    <footer class="">
-        <div class="container">
-
-        </div>
-    </footer>
+    <?php include("_footer.php"); ?>
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>

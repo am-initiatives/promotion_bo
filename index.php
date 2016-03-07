@@ -9,18 +9,13 @@
 
     <?php include("_navbar.php"); ?>
 
-    <section class="test">
+    <section id="accueil">
         <div class="container">
 
         </div>
     </section>
 
-    <!-- Pied de page -->
-    <footer class="">
-        <div class="container">
-
-        </div>
-    </footer>
+    <?php include("_footer.php"); ?>
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>

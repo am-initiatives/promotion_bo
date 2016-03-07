@@ -18,10 +18,10 @@
                         <a href="#associations" class="active">Associations</a>
                     </li>
                     <li class="col-md-2 ">
-                        <a href="">Sport</a>
+                        <a href="sport.php">Sport</a>
                     </li>
                     <li class="col-md-2">
-                        <a href="" class="">Evenements</a>
+                        <a href="evenements.php">Evenements</a>
                     </li>
                 </ul>
             </div>
@@ -32,7 +32,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/amje.jpg" class="col-xs-12 img-responsive"></a>
+                    <a href="associations_amje.php" class="cadre_logo"><img src="img/associations/amje.jpg" class="col-xs-12 img-responsive"></a>
                 </div>
                 <div class="col-md-3 col-xs-6">
                     <a href="" class="cadre_logo"><img src="img/associations/artsetvins.jpg" class="col-xs-12"></a>
@@ -78,18 +78,13 @@
     <section id="section_associations">
         <div class="container">
             <div class="row">
-                <h2 class="text-couleur">A Propos de l'association des élèves</h2>
+                <h2 class="titre_section text-couleur">A Propos de l'association des élèves</h2>
                 <p></p>
             </div>
         </div>
     </section>
 
-    <!-- Pied de page -->
-    <footer class="">
-        <div class="container">
-
-        </div>
-    </footer>
+    <?php include("_footer.php"); ?>
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
