@@ -35,7 +35,7 @@
                 <p class="text-muted text-center"></p>
             </div>
             <div class="row">
-                <img src="" class="col-md-6">
+                <img src="img/associations/illustrations/rando.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
                     <p class="text-justify">L’association randonnée du centre de Bordeaux organise chaque année plusieurs sorties en pleine nature, de la vallée à la haute montagne. Amateur de randonnées et de bivouac, rejoins les pour des moments conviviaux.</p>
                 </div>

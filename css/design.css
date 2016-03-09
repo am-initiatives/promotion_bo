@@ -107,6 +107,9 @@ section#section_associations .cadre_logo img{
     margin: auto;
     padding: 15px;
 }
+section#section_boquette .titre_section{
+    margin-bottom: 0;
+}
 
 /* Design général */
 

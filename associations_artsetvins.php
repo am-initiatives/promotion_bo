@@ -32,10 +32,10 @@
         <div class="container">
             <div class="row">
                 <h1 class="titre_section text-couleur text-center">Arts &amp Vins</h1>
-                <p class="text-muted text-center">Oenologie</p>
+                <p class="text-muted text-center">Association d'oenologie</p>
             </div>
             <div class="row">
-                <img src="img/associations/illustrations/artsetvins.jpg" class="col-md-6">
+                <img src="img/associations/illustrations/artsetvins.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
                     <p class="text-justify">Avec une école située au cœur du vignoble bordelais, Arts et Vins offre la possibilité de découvrir l’œnologie.</p>
                     <p class="text-justify">Grâce aux dégustations organisées dans des châteaux et dans l’école, l’association fait découvrir les vins de la région Bordelaise, mais aussi d’autres vignobles français et internationaux. De nombreuses visites, alliant cultures et dégustations, sont organisés tout au long de l’année. </p>

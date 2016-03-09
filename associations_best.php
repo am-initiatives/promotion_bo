@@ -35,7 +35,7 @@
                 <p class="text-muted text-center"></p>
             </div>
             <div class="row">
-                <img src="" class="col-md-6">
+                <img src="img/associations/illustrations/best.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
                     <p class="text-justify">BEST est une association européenne créée par les étudiants, pour les étudiants. Elle est implantée dans 33 pays et touche ainsi un million d’étudiants européens. Depuis 1989, BEST propose des programmes d’échange entre étudiants à travers des séminaires technologiques, des échanges culturels ou des compétitions d’ingénierie. Les étudiants des Arts et Métiers de Bordeaux-Talence organisent chaque année des évènements pour accueillir des étrangers, et partent eux aussi aux quatre coins de l’Europe. Participer à BEST, c’est l’occasion de découvrir de nouvelles cultures, des étudiants de tous horizons et de partager des moments festifs autour d’un apprentissage culturel ou technique.</p>
                 </div>

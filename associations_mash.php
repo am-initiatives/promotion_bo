@@ -35,7 +35,7 @@
                 <p class="text-muted text-center"></p>
             </div>
             <div class="row">
-                <img src="" class="col-md-6">
+                <img src="img/associations/illustrations/mash.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
                     <p class="text-justify">L’association MASH Bordeaux a pour objectif de concevoir un prototype de véhicule pour participer au Marathon Shell. Celui-ci se déroule chaque année dans une grande ville européenne. (Rotterdam en 2015, Londres en 2016). L’objectif : Rouler le plus loin possible avec le moins d’énergie possible. Chaque année, des étudiants participent ainsi à la conception et à l’amélioration des prototypes de voitures. Après avoir concouru plusieurs années dans la catégorie des moteurs thermiques, le nouveau défi de l’association Mash est de fabriquer un véhicule électrique. </p>
                 </div>
