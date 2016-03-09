@@ -31,15 +31,13 @@
     <section id="section_boquette" class="bg_sombre">
         <div class="container">
             <div class="row">
-                <h1 class="titre_section text-couleur text-center">AMJE Bordeaux</h1>
-                <p class="text-muted text-center">Junior Entreprise</p>
+                <h1 class="titre_section text-couleur text-center">Club photo</h1>
+                <p class="text-muted text-center"></p>
             </div>
             <div class="row">
                 <img src="" class="col-md-6">
                 <div class="col-md-6">
-                    <p class="text-justify">AMJE Bordeaux (Arts et Métiers Junior Etudes) est une Junior-Entreprise gérée par les étudiants de l’école. Membre de la CNJE (Confédération Nationale des Junior-Entreprises), elle concrétise les projets de particuliers et de professionnels depuis plus de 30 ans.</p>
-                    <p class="text-justify">En rejoignant l’équipe, tu pourras mettre tes compétences et tes connaissances technologiques à profit pour mener à bien des projets. Appartenir au conseil d’administration te permettra aussi de découvrir le monde de l’entreprise et son fonctionnement.</p>
-                    <p class="text-center">Pour tout renseignements : <a href="http://www.amje-bordeaux.fr">www.amje-bordeaux.fr</a></p>
+                    <p class="text-justify">Tu es passionné par la photographie, ou tu souhaites immortaliser les meilleurs moments de ta vie à l’école ? Rejoins le club photo et deviens le paparazzi des évènements les plus marquants de l’année : Gala, soirées, repas, et bien d’autres encore. Un laboratoire de développement photo a été installé en 2016 dans l’une des résidences. Tu pourras ainsi réaliser des tirages de professionnels. Le club photo est un élément clef de la vie de la communauté, il permet de centraliser toutes les photos pour les albums de promo, mais aussi de garder une trace du passage des étudiants et d’avoir des souvenirs inoubliables sur papier glacé.</p>
                 </div>
             </div>
         </div>

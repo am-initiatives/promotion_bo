@@ -31,15 +31,13 @@
     <section id="section_boquette" class="bg_sombre">
         <div class="container">
             <div class="row">
-                <h1 class="titre_section text-couleur text-center">AMJE Bordeaux</h1>
-                <p class="text-muted text-center">Junior Entreprise</p>
+                <h1 class="titre_section text-couleur text-center">Mash - Marathon Shell</h1>
+                <p class="text-muted text-center"></p>
             </div>
             <div class="row">
                 <img src="" class="col-md-6">
                 <div class="col-md-6">
-                    <p class="text-justify">AMJE Bordeaux (Arts et Métiers Junior Etudes) est une Junior-Entreprise gérée par les étudiants de l’école. Membre de la CNJE (Confédération Nationale des Junior-Entreprises), elle concrétise les projets de particuliers et de professionnels depuis plus de 30 ans.</p>
-                    <p class="text-justify">En rejoignant l’équipe, tu pourras mettre tes compétences et tes connaissances technologiques à profit pour mener à bien des projets. Appartenir au conseil d’administration te permettra aussi de découvrir le monde de l’entreprise et son fonctionnement.</p>
-                    <p class="text-center">Pour tout renseignements : <a href="http://www.amje-bordeaux.fr">www.amje-bordeaux.fr</a></p>
+                    <p class="text-justify">L’association MASH Bordeaux a pour objectif de concevoir un prototype de véhicule pour participer au Marathon Shell. Celui-ci se déroule chaque année dans une grande ville européenne. (Rotterdam en 2015, Londres en 2016). L’objectif : Rouler le plus loin possible avec le moins d’énergie possible. Chaque année, des étudiants participent ainsi à la conception et à l’amélioration des prototypes de voitures. Après avoir concouru plusieurs années dans la catégorie des moteurs thermiques, le nouveau défi de l’association Mash est de fabriquer un véhicule électrique. </p>
                 </div>
             </div>
         </div>

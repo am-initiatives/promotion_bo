@@ -31,15 +31,13 @@
     <section id="section_boquette" class="bg_sombre">
         <div class="container">
             <div class="row">
-                <h1 class="titre_section text-couleur text-center">AMJE Bordeaux</h1>
-                <p class="text-muted text-center">Junior Entreprise</p>
+                <h1 class="titre_section text-couleur text-center">Aumônerie</h1>
+                <p class="text-muted text-center"></p>
             </div>
             <div class="row">
                 <img src="" class="col-md-6">
                 <div class="col-md-6">
-                    <p class="text-justify">AMJE Bordeaux (Arts et Métiers Junior Etudes) est une Junior-Entreprise gérée par les étudiants de l’école. Membre de la CNJE (Confédération Nationale des Junior-Entreprises), elle concrétise les projets de particuliers et de professionnels depuis plus de 30 ans.</p>
-                    <p class="text-justify">En rejoignant l’équipe, tu pourras mettre tes compétences et tes connaissances technologiques à profit pour mener à bien des projets. Appartenir au conseil d’administration te permettra aussi de découvrir le monde de l’entreprise et son fonctionnement.</p>
-                    <p class="text-center">Pour tout renseignements : <a href="http://www.amje-bordeaux.fr">www.amje-bordeaux.fr</a></p>
+                    <p class="text-justify">L’aumônerie des Arts et Métiers rassemble les étudiants autour de leur foi. L’association organise des repas, des réflexions mais aussi des soirées avec les autres aumôneries étudiantes et des évènements avec des anciens élèves de l’école. La messe des étudiants de Bordeaux du dimanche soir est l’occasion pour tous les étudiants du campus de se retrouver. Chaque année, le week-end des rencontres de gadzarts chrétiens réunissent la communauté à Paris pour un moment de convivialité et de débat.</p>
                 </div>
             </div>
         </div>

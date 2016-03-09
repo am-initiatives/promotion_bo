@@ -31,15 +31,15 @@
     <section id="section_boquette" class="bg_sombre">
         <div class="container">
             <div class="row">
-                <h1 class="titre_section text-couleur text-center">AMJE Bordeaux</h1>
-                <p class="text-muted text-center">Junior Entreprise</p>
+                <h1 class="titre_section text-couleur text-center">Arts &amp Vins</h1>
+                <p class="text-muted text-center">Oenologie</p>
             </div>
             <div class="row">
-                <img src="" class="col-md-6">
+                <img src="img/associations/illustrations/artsetvins.jpg" class="col-md-6">
                 <div class="col-md-6">
-                    <p class="text-justify">AMJE Bordeaux (Arts et Métiers Junior Etudes) est une Junior-Entreprise gérée par les étudiants de l’école. Membre de la CNJE (Confédération Nationale des Junior-Entreprises), elle concrétise les projets de particuliers et de professionnels depuis plus de 30 ans.</p>
-                    <p class="text-justify">En rejoignant l’équipe, tu pourras mettre tes compétences et tes connaissances technologiques à profit pour mener à bien des projets. Appartenir au conseil d’administration te permettra aussi de découvrir le monde de l’entreprise et son fonctionnement.</p>
-                    <p class="text-center">Pour tout renseignements : <a href="http://www.amje-bordeaux.fr">www.amje-bordeaux.fr</a></p>
+                    <p class="text-justify">Avec une école située au cœur du vignoble bordelais, Arts et Vins offre la possibilité de découvrir l’œnologie.</p>
+                    <p class="text-justify">Grâce aux dégustations organisées dans des châteaux et dans l’école, l’association fait découvrir les vins de la région Bordelaise, mais aussi d’autres vignobles français et internationaux. De nombreuses visites, alliant cultures et dégustations, sont organisés tout au long de l’année. </p>
+                    <p class="text-center">Les maitres mots d’Arts et Vins sont la convivialité, la découverte, l’ouverture d’esprit ainsi que l’amour des produits de notre terroir. </p>
                 </div>
             </div>
         </div>

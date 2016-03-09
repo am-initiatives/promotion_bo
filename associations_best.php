@@ -31,15 +31,13 @@
     <section id="section_boquette" class="bg_sombre">
         <div class="container">
             <div class="row">
-                <h1 class="titre_section text-couleur text-center">AMJE Bordeaux</h1>
-                <p class="text-muted text-center">Junior Entreprise</p>
+                <h1 class="titre_section text-couleur text-center">BEST</h1>
+                <p class="text-muted text-center"></p>
             </div>
             <div class="row">
                 <img src="" class="col-md-6">
                 <div class="col-md-6">
-                    <p class="text-justify">AMJE Bordeaux (Arts et Métiers Junior Etudes) est une Junior-Entreprise gérée par les étudiants de l’école. Membre de la CNJE (Confédération Nationale des Junior-Entreprises), elle concrétise les projets de particuliers et de professionnels depuis plus de 30 ans.</p>
-                    <p class="text-justify">En rejoignant l’équipe, tu pourras mettre tes compétences et tes connaissances technologiques à profit pour mener à bien des projets. Appartenir au conseil d’administration te permettra aussi de découvrir le monde de l’entreprise et son fonctionnement.</p>
-                    <p class="text-center">Pour tout renseignements : <a href="http://www.amje-bordeaux.fr">www.amje-bordeaux.fr</a></p>
+                    <p class="text-justify">BEST est une association européenne créée par les étudiants, pour les étudiants. Elle est implantée dans 33 pays et touche ainsi un million d’étudiants européens. Depuis 1989, BEST propose des programmes d’échange entre étudiants à travers des séminaires technologiques, des échanges culturels ou des compétitions d’ingénierie. Les étudiants des Arts et Métiers de Bordeaux-Talence organisent chaque année des évènements pour accueillir des étrangers, et partent eux aussi aux quatre coins de l’Europe. Participer à BEST, c’est l’occasion de découvrir de nouvelles cultures, des étudiants de tous horizons et de partager des moments festifs autour d’un apprentissage culturel ou technique.</p>
                 </div>
             </div>
         </div>

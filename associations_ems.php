@@ -31,15 +31,13 @@
     <section id="section_boquette" class="bg_sombre">
         <div class="container">
             <div class="row">
-                <h1 class="titre_section text-couleur text-center">AMJE Bordeaux</h1>
-                <p class="text-muted text-center">Junior Entreprise</p>
+                <h1 class="titre_section text-couleur text-center">Musique</h1>
+                <p class="text-muted text-center">Groupes de musique</p>
             </div>
             <div class="row">
                 <img src="" class="col-md-6">
                 <div class="col-md-6">
-                    <p class="text-justify">AMJE Bordeaux (Arts et Métiers Junior Etudes) est une Junior-Entreprise gérée par les étudiants de l’école. Membre de la CNJE (Confédération Nationale des Junior-Entreprises), elle concrétise les projets de particuliers et de professionnels depuis plus de 30 ans.</p>
-                    <p class="text-justify">En rejoignant l’équipe, tu pourras mettre tes compétences et tes connaissances technologiques à profit pour mener à bien des projets. Appartenir au conseil d’administration te permettra aussi de découvrir le monde de l’entreprise et son fonctionnement.</p>
-                    <p class="text-center">Pour tout renseignements : <a href="http://www.amje-bordeaux.fr">www.amje-bordeaux.fr</a></p>
+                    <p class="text-justify">L’Em’ss, c’est l’association musicale de l’école. Que tu joues d’un instrument ou que tu chantes, viens monter un groupe dans une salle de musique équipée et refaite à neuf en 2016. Les groupes de l’école se produisent lors de soirées au bar de l’école et lors du gala dans une salle qui leur est dédiée. Tu sais mixer ? Viens animer les soirées étudiantes qui réunissent tout le campus de Talence.</p>
                 </div>
             </div>
         </div>

@@ -35,41 +35,41 @@
                     <a href="associations_amje.php" class="cadre_logo"><img src="img/associations/amje.jpg" class="col-xs-12 img-responsive"></a>
                 </div>
                 <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/artsetvins.jpg" class="col-xs-12"></a>
+                    <a href="associations_artsetvins.php" class="cadre_logo"><img src="img/associations/artsetvins.jpg" class="col-xs-12"></a>
                 </div>
                 <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/aumonerie.jpg" class="col-xs-12 img-responsive"></a>
+                    <a href="associations_aumonerie.php" class="cadre_logo"><img src="img/associations/aumonerie.jpg" class="col-xs-12 img-responsive"></a>
                 </div>
                 <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/best.jpg" class="col-xs-12"></a>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/btk.jpg" class="col-xs-12"></a>
-                </div>
-                <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/ems.jpg" class="col-xs-12"></a>
-                </div>
-                <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/gasole.jpg" class="col-xs-12"></a>
-                </div>
-                <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/mash.jpg" class="col-xs-12"></a>
+                    <a href="associations_best.php" class="cadre_logo"><img src="img/associations/best.jpg" class="col-xs-12"></a>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/journal.jpg" class="col-xs-12"></a>
+                    <a href="associations_btk.php" class="cadre_logo"><img src="img/associations/btk.jpg" class="col-xs-12"></a>
                 </div>
                 <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/artsetvins.jpg" class="col-xs-12"></a>
+                    <a href="associations_ems.php" class="cadre_logo"><img src="img/associations/ems.jpg" class="col-xs-12"></a>
                 </div>
                 <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/artsetvins.jpg" class="col-xs-12"></a>
+                    <a href="associations_gasole.php" class="cadre_logo"><img src="img/associations/gasole.jpg" class="col-xs-12"></a>
                 </div>
                 <div class="col-md-3 col-xs-6">
-                    <a href="" class="cadre_logo"><img src="img/associations/voile.jpg" class="col-xs-12"></a>
+                    <a href="associations_mash.php" class="cadre_logo"><img src="img/associations/mash.jpg" class="col-xs-12"></a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-xs-6">
+                    <a href="associations_journal.php" class="cadre_logo"><img src="img/associations/journal.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="associations_rando.php" class="cadre_logo"><img src="img/associations/rando.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="associations_photo.php" class="cadre_logo"><img src="img/associations/photo.jpg" class="col-xs-12"></a>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <a href="associations_voile.php" class="cadre_logo"><img src="img/associations/voile.jpg" class="col-xs-12"></a>
                 </div>
             </div>
         </div>
