@@ -131,6 +131,9 @@ section#section_boquette .titre_section{
 .text-bold{
     font-weight: 600;
 }
+.titre_section{
+    text-transform: uppercase;
+}
 #logement .text-couleur{
     color: #ff3366;
 }
@@ -149,7 +152,6 @@ section#section_boquette .titre_section{
     -ms-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -webkit-transform: rotate(-90deg);
-    text-transform: uppercase;
 }
 #logement .bords_ronds{
     padding-left: 10px;
@@ -161,7 +163,4 @@ section#section_boquette .titre_section{
 #logement .logo_services{
     height:50px;
     max-width: 100px;
-}
-#associations .titre_section{
-    text-transform: uppercase;
 }
