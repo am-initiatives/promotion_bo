@@ -28,10 +28,10 @@
         </div>
     </nav>
 
-    <section id="section_boquette" class="bg_sombre">
+    <section id="section_boquette" class="bg_fonce">
         <div class="container">
             <div class="row">
-                <h1 class="titre_section text-couleur text-center">Journal de l'école</h1>
+                <h1 class="text-uppercase text-couleur text-center">Journal de l'école</h1>
                 <p class="text-muted text-center"></p>
             </div>
             <div class="row">

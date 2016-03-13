@@ -28,21 +28,45 @@
         </div>
     </nav>
 
-    <section id="section_evenements" class="bg_beige text-center">
+    <section id="section_evenements" class="bg_beige">
         <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-xs-6">
-                    <a href="associations_amje.php" class="cadre_logo"><img src="img/associations/amje.jpg" class="col-xs-12 img-responsive"></a>
+            <div class="col-md-10 col-md-offset-1">
+            <div class="row bg_sombre">
+                <img src="img/evenements/gala.jpg" class="col-md-6 col-xs-12">
+                <div class="col-md-6 col-xs-12">
+                    <h2 class="text-right text-uppercase text-white">Grand Gala</h2>
+                    <p class="text-white">Tu veux organiser le plus Grand Gala d’Aquitaine, qui accueille chaque année des DJs de tous horizons musicaux ? Faire rêver 4000 personnes, avec des spectacles et des groupes étudiants ? Que tu aimes organiser, décorer ou être barman, tous les élèves ingénieurs participent à l’élaboration de la soirée.  Alors rejoins nous dans cette aventure, et participer à l’une des meilleures nuits bordelaises !</p>
+                    <p class="text-white">Pour en savoir plus :</p>
                 </div>
-                <div class="col-md-3 col-xs-6">
-                    <a href="associations_artsetvins.php" class="cadre_logo"><img src="img/associations/artsetvins.jpg" class="col-xs-12"></a>
+            </div>
+            <div class="row bg_sombre">
+                <img src="img/evenements/ve.jpg" class="col-md-6 col-xs-12">
+                <div class="col-md-6 col-xs-12">
+                    <h2 class="text-right text-uppercase text-white">Soirées VE</h2>
+                    <p></p>
                 </div>
-                <div class="col-md-3 col-xs-6">
-                    <a href="associations_aumonerie.php" class="cadre_logo"><img src="img/associations/aumonerie.jpg" class="col-xs-12 img-responsive"></a>
+            </div>
+            <div class="row bg_blanc">
+                <img src="img/evenements/uai.jpg" class="col-md-6 col-xs-12">
+                <div class="col-md-6 col-xs-12">
+                    <h2 class="text-right text-uppercase text-muted">Grandes UAI</h2>
+                    <p></p>
                 </div>
-                <div class="col-md-3 col-xs-6">
-                    <a href="associations_best.php" class="cadre_logo"><img src="img/associations/best.jpg" class="col-xs-12"></a>
+            </div>
+            <div class="row bg_blanc">
+                <img src="img/evenements/skz.jpg" class="col-md-6 col-xs-12">
+                <div class="col-md-6 col-xs-12">
+                    <h2 class="text-right text-uppercase text-muted">SKZ</h2>
+                    <p></p>
                 </div>
+            </div>
+            <div class="row bg_blanc">
+                <img src="img/evenements/croisiere.jpg" class="col-md-6 col-xs-12">
+                <div class="col-md-6 col-xs-12">
+                    <h2 class="text-right text-uppercase text-muted">Croisiere AM</h2>
+                    <p></p>
+                </div>
+            </div>
             </div>
         </div>
     </section>

@@ -28,7 +28,7 @@
         </div>
     </nav>
 
-    <section id="section_residences" class="bg_beige">
+    <section id="section_residences" class="bg_beige text-muted">
         <div class="container">
             <div class="col-md-7 col-sm-12 col-xs-12">
                 <div class="row">
@@ -37,25 +37,25 @@
                             <span class="text-light text-couleur" style="font-size:1.6em">places</span></p>
                     </div>
                     <div class="col-md-10 col-sm-10">
-                        <p class="text-justify text-muted">La Maison des Arts et Métiers accueille la majorité des étudiants de 1ère et 2ème années (ainsi que quelques élèves de 3ème année et des doctorants). Composée de deux bâtiments, la résidence compte 150 collocations. Située à 2 minutes des salles de cours et à 500m de l'arrêt de tramway, elle est le coeur de la vie associative du campus.</p>
+                        <p class="text-justify">La Maison des Arts et Métiers accueille la majorité des étudiants de 1ère et 2ème années (ainsi que quelques élèves de 3ème année et des doctorants). Composée de deux bâtiments, la résidence compte 150 collocations. Située à 2 minutes des salles de cours et à 500m de l'arrêt de tramway, elle est le coeur de la vie associative du campus.</p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="chiffres_cles col-md-2 col-sm-2">
                         <p style="line-height:8px;"><span class="text-light text-couleur" style="font-size:2.2em">270 €</span><br>
-                            <span class="text-muted" style="font-size:0.6em">montant/mois/personne allocations CAF déduites</span></p>
+                            <span style="font-size:0.6em">montant/mois/personne allocations CAF déduites</span></p>
                     </div>
                     <div class="col-md-10 col-sm-10">
-                        <p class="text-justify text-muted">Le loyer pour l'année scolaire 2015-2016 s'élève à 362.55€, charges comprises. Tous les locataires sont éligibles à l'allocation logement social (ALS), d'un montant minimum de 92€.</p>
+                        <p class="text-justify">Le loyer pour l'année scolaire 2015-2016 s'élève à 362.55€, charges comprises. Tous les locataires sont éligibles à l'allocation logement social (ALS), d'un montant minimum de 92€.</p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="chiffres_cles col-md-2 col-sm-2">
                         <p><span class="text-bold text-couleur" style="font-size:2em">31 m²</span><br>
-                            <span class="text-muted" style="font-size:2em">T1 Bis</span></p>
+                            <span style="font-size:2em">T1 Bis</span></p>
                     </div>
                     <div class="col-md-10 col-sm-10">
-                        <p class="text-justify text-muted">Les appartements de type T1bis font 31m². Ils sont composés d'une pièce principale avec kitchenette, d'une salle de bain avec WC et d'une chambre pour chacun des deux colocataires.</p>
+                        <p class="text-justify">Les appartements de type T1bis font 31m². Ils sont composés d'une pièce principale avec kitchenette, d'une salle de bain avec WC et d'une chambre pour chacun des deux colocataires.</p>
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@
             <p class="text-muted text-center">Attention, aucune place n’est pré affectée aux élèves des Arts et Métiers. Il est nécessaire de remplir les formalités administratives du CROUS (<span class="text-couleur">Dossier Social Etudiant et contrat de location</span>) lors de l’inscription sur le site internet de l’école.</p>
             <div class="col-md-4 col-md-offset-4">
                 <div class="row">
-                    <p class=" text-center"><i class="fa fa-envelope-o"></i> Contact : antoine.proenca@crous-bordeaux.fr</p>
+                    <p class="text-center"><i class="fa fa-envelope-o"></i> Contact : antoine.proenca@crous-bordeaux.fr</p>
                 </div>
             </div>
         </div>
@@ -77,7 +77,7 @@
     <section id="section_appartements" class="bg_beige">
         <div class="container text-center">
             <div class="col-xs-1">
-                <h3 class="titre_section text-couleur">Chambres</h3>
+                <h3 class="text-uppercase text-couleur">Chambres</h3>
             </div>
             <div class="col-md-3 col-xs-11">
                 <h4 class="text-center text-couleur">Exemple d'appartement type</h4>
@@ -125,7 +125,7 @@
         <div class="container">
             <div class="col-md-1 col-xs-1">
                 <div class="row">
-                    <h3 class="titre_section text-couleur">Services</h3>
+                    <h3 class="text-uppercase text-couleur">Services</h3>
                 </div>
             </div>
             <div class="col-sm-11 col-xs-11 text-center">

@@ -107,17 +107,36 @@ section#section_associations .cadre_logo img{
     margin: auto;
     padding: 15px;
 }
-section#section_boquette .titre_section{
+section#section_boquette .text-uppercase {
     margin-bottom: 0;
+}
+section#section_boquette img{
+    margin-bottom: 20px;
+}
+section#section_sport img{
+    margin-bottom: 10px;
+}
+section#section_evenements .row{
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px #aaaaaa;
+}
+section#section_evenements img{
+    padding: 0;
 }
 
 /* Design général */
 
+.bg_blanc{
+    background-color: #ffffff;
+}
 .bg_beige{
     background-color: #f7f5f5;
 }
-.bg_sombre{
+.bg_fonce {
     background-color: #e0dcd6;
+}
+.bg_sombre {
+    background-color: #3c3a39;
 }
 .chiffres_cles{
     text-align: center;
@@ -131,8 +150,8 @@ section#section_boquette .titre_section{
 .text-bold{
     font-weight: 600;
 }
-.titre_section{
-    text-transform: uppercase;
+.text-white{
+    color: #ffffff;
 }
 #logement .text-couleur{
     color: #ff3366;
@@ -146,7 +165,7 @@ section#section_boquette .titre_section{
 #etudes .text-couleur{
     color: #3dcae3;
 }
-#logement .titre_section{
+#logement .text-uppercase {
     margin-top: 120px;
     transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
