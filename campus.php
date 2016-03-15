@@ -5,7 +5,7 @@
 
 <?php include("_header.php"); ?>
 
-<body id="page-top" class="index">
+<body id="campus" class="index">
 
     <?php include("_navbar.php"); ?>
 
@@ -14,21 +14,18 @@
             <!-- Liens du sous menu -->
             <div id="sous_menu_campus">
                 <ul class="nav">
-                    <li class="col-md-2 col-md-offset-3">
+                    <li class="col-md-2 col-md-offset-4 col-sm-6">
                         <a href="" class="active">Campus</a>
                     </li>
-                    <li class="col-md-2 ">
-                        <a href="">Bordeaux</a>
-                    </li>
-                    <li class="col-md-2">
-                        <a href="">Région</a>
+                    <li class="col-md-2 col-sm-6">
+                        <a href="vie_pratique.php">Vie Pratique</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-    <section class="test">
+    <section class="">
         <div class="container">
 
         </div>

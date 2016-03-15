@@ -14,13 +14,13 @@
             <!-- Liens du sous menu -->
             <div id="sous_menu_vie_asso">
                 <ul class="nav">
-                    <li class="col-md-2 col-md-offset-3">
+                    <li class="col-md-2 col-md-offset-3 col-sm-4">
                         <a href="#associations" class="active">Associations</a>
                     </li>
-                    <li class="col-md-2 ">
+                    <li class="col-md-2 col-sm-4">
                         <a href="sport.php">Sport</a>
                     </li>
-                    <li class="col-md-2">
+                    <li class="col-md-2 col-sm-4">
                         <a href="evenements.php">Evenements</a>
                     </li>
                 </ul>

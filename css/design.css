@@ -123,6 +123,16 @@ section#section_evenements .row{
 section#section_evenements img{
     padding: 0;
 }
+section#section_campus_services h3{
+    margin-top: 0;
+}
+section#section_campus_services .well{
+    margin-top: 10px;
+}
+section#section_campus_services .img-circle{
+    border: 1px solid #777777;
+    width: 100%;
+}
 
 /* Design général */
 

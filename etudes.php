@@ -5,7 +5,7 @@
 
 <?php include("_header.php"); ?>
 
-<body id="page-top" class="index">
+<body id="etudes" class="index">
 
     <?php include("_navbar.php"); ?>
 
@@ -15,7 +15,7 @@
             <div id="sous_menu_etudes">
                 <ul class="nav">
                     <li class="col-md-2 col-md-offset-3">
-                        <a href="#page-top" class="active">Cursus</a>
+                        <a href="#etudes" class="active">Cursus</a>
                     </li>
                     <li class="col-md-2 ">
                         <a href="">Ecole</a>

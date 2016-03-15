@@ -9,9 +9,9 @@
 
     <?php include("_navbar.php"); ?>
 
-    <section id="accueil">
+    <section id="accueil" class="bg_beige">
         <div class="container">
-
+            <img src="img/accueil.jpg" class="img-responsive">
         </div>
     </section>
 
