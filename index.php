@@ -5,14 +5,13 @@
 
 <?php include("_header.php"); ?>
 
-<body id="page-top" class="index">
+<body id="accueil" class="index">
 
     <?php include("_navbar.php"); ?>
 
-    <section id="accueil" class="bg_beige">
-        <div class="container">
-            <img src="img/accueil.jpg" class="img-responsive">
-        </div>
+    <section id="section_accueil" class="bg_noir">
+        <img src="img/accueil.jpg" class="img-responsive">
+
     </section>
 
     <?php include("_footer.php"); ?>

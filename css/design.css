@@ -133,6 +133,13 @@ section#section_campus_services .img-circle{
     border: 1px solid #777777;
     width: 100%;
 }
+section#section_campus_services .img-circle[aria-expanded="true"]{
+    background-color: #ff9966;
+}
+section#section_accueil{
+    margin:0;
+    padding:0;
+}
 
 /* Design général */
 
@@ -147,6 +154,9 @@ section#section_campus_services .img-circle{
 }
 .bg_sombre {
     background-color: #3c3a39;
+}
+.bg_noir {
+    background-color: #232323;
 }
 .chiffres_cles{
     text-align: center;
