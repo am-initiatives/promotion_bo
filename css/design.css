@@ -123,22 +123,22 @@ section#section_evenements .row{
 section#section_evenements img{
     padding: 0;
 }
-section#section_campus_services h3{
-    margin-top: 0;
-}
-section#section_campus_services .well{
-    margin-top: 10px;
-}
-section#section_campus_services .img-circle{
-    border: 1px solid #777777;
-    width: 100%;
-}
-section#section_campus_services .img-circle[aria-expanded="true"]{
-    background-color: #ff9966;
-}
 section#section_accueil{
     margin:0;
     padding:0;
+}
+footer{
+    padding-bottom: 50px;
+}
+footer textarea{
+    min-width: 100%;
+    max-width: 100%;
+}
+footer h4{
+    margin:40px 0 20px 0;
+}
+footer h5{
+    margin-bottom:0;
 }
 
 /* Design général */
@@ -173,19 +173,19 @@ section#section_accueil{
 .text-white{
     color: #ffffff;
 }
-#logement .text-couleur{
+#logement .text-couleur, .text-rouge{
     color: #ff3366;
 }
-#campus .text-couleur{
+#campus .text-couleur, .text-orange{
     color: #ff9966;
 }
-#associations .text-couleur{
+#associations .text-couleur, .text-vert{
     color: #3cd09e;
 }
-#etudes .text-couleur{
+#etudes .text-couleur, .text-bleu{
     color: #3dcae3;
 }
-#logement .text-uppercase {
+#logement h3.text-uppercase {
     margin-top: 120px;
     transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
@@ -202,4 +202,18 @@ section#section_accueil{
 #logement .logo_services{
     height:50px;
     max-width: 100px;
+}
+#campus h3{
+    margin-top: 0;
+}
+#campus .well{
+    margin-top: 10px;
+}
+#campus .img-circle{
+    border: 1px solid #777777;
+    width: 100%;
+    margin-top: 20px;
+}
+#campus .img-circle[aria-expanded="true"]{
+    background-color: #ff9966;
 }

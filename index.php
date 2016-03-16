@@ -11,7 +11,6 @@
 
     <section id="section_accueil" class="bg_noir">
         <img src="img/accueil.jpg" class="img-responsive">
-
     </section>
 
     <?php include("_footer.php"); ?>
