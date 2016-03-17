@@ -166,7 +166,7 @@
     <section id="section_campus_restauration" class="text-right">
         <div class="container">
             <h2 class="text-uppercase text-couleur">Restauration</h2>
-            <img src="img/vie_pratique/illustrations/shopping.jpg" class="col-md-6 img-responsive center-block">
+            <img src="img/vie_pratique/illustrations/restaurant.jpg" class="col-md-6 img-responsive center-block">
             <div class="col-md-6">
                 <div class="row">
                     <div class="col-xs-2 col-xs-offset-2 col-md-offset-4"><img src="img/vie_pratique/restaurant.png" class="img-circle" data-toggle="collapse" href="#collapseRestaurant" aria-expanded="true"/></div>
