@@ -92,6 +92,10 @@ section{
 section#section_services h5{
      margin-bottom: 0;
 }
+section#section_accueil{
+    margin: 0;
+    padding: 0;
+}
 section#section_associations .row div{
     margin-bottom: 20px;
 }
@@ -122,10 +126,6 @@ section#section_evenements .row{
 }
 section#section_evenements img{
     padding: 0;
-}
-section#section_accueil{
-    margin:0;
-    padding:0;
 }
 footer{
     padding-bottom: 50px;
@@ -212,7 +212,8 @@ footer h5{
 #campus .img-circle{
     border: 1px solid #777777;
     width: 100%;
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 #campus .img-circle[aria-expanded="true"]{
     background-color: #ff9966;

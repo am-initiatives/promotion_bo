@@ -15,13 +15,13 @@
             <div id="sous_menu_logement">
                 <ul class="nav">
                     <li class="col-md-2 col-md-offset-3 col-sm-4">
-                        <a href="#section_residences" class="active">Résidences</a>
+                        <a href="#section_residences" class="active page-scroll">Résidences</a>
                     </li>
                     <li class="col-md-2 col-sm-4">
-                        <a href="#section_appartements">Appartements</a>
+                        <a href="#section_appartements" class="page-scroll">Appartements</a>
                     </li>
                     <li class="col-md-2 col-sm-4">
-                        <a href="#section_services">Services</a>
+                        <a href="#section_services" class="page-scroll">Services</a>
                     </li>
                 </ul>
             </div>
@@ -177,7 +177,9 @@
     <?php include("_footer.php"); ?>
 
     <script src="js/jquery.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/scrolling-nav.js"></script>
 
 </body>
 
