@@ -37,7 +37,7 @@
             <div class="row">
                 <img src="img/associations/illustrations/journal.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
-                    <p class="text-justify">Le journal de l’école, distribué chaque semaine, permet aux étudiants de laisser libre court à leur imagination et à leurs envies de reporter. Liberté d’expression, voilà le maître mot de ce journal, qui prend chaque semaine une orientation différente. Il contient également toutes les actualités de la vie associative du campus et les comptes rendus de réunion de l’association des élèves. Que tu sois rédacteur occasionnel ou fervent journaliste, le « Thuyss » saura t’accueillir au sein de ses pages, et aura besoin de toi pour être imprimé et distribué sur le campus !</p>
+                    <p class="text-justify">Distribué chaque semaine, le journal de l’école permet aux étudiants de laisser parler le reporter qui est en eux. Liberté d’expression, voilà le maitre mot de cet hebdomadaire, qui garde toujours sa tonalité humoristique quels que soient les évènements. Il contient toutes les actualités de la vie associative du campus, les comptes rendus de réunion de l’association des élèves mais aussi des billets drôles, critiques ou informatifs. Que tu sois rédacteur occasionnel ou fervent journaliste, le « Thuiss » saura t’accueillir au sein de ses pages, et aura besoin de toi pour être imprimé et distribué sur le campus !</p>
                 </div>
             </div>
         </div>

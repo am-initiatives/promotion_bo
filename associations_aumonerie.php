@@ -37,7 +37,7 @@
             <div class="row">
                 <img src="img/associations/illustrations/aumonerie.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
-                    <p class="text-justify">L’aumônerie des Arts et Métiers rassemble les étudiants autour de leur foi. L’association organise des repas, des réflexions mais aussi des soirées avec les autres aumôneries étudiantes et des évènements avec des anciens élèves de l’école. La messe des étudiants de Bordeaux du dimanche soir est l’occasion pour tous les étudiants du campus de se retrouver. Chaque année, le week-end des rencontres de gadzarts chrétiens réunissent la communauté à Paris pour un moment de convivialité et de débat.</p>
+                    <p class="text-justify">Pas le temps d’aller à la messe pour Le retrouver parce-que tu as trop de test ? Rejoins l’aumônerie et viens rencontrer les autres étudiants chrétiens du campus qui souhaitent donner un autre sens à leur vie au-delà de la carrière promise par les Arts et Métiers. Autour d’un verre après la messe du dimanche soir ou lors des concerts du couvent des Dominicains, le dialogue et le débat sont au cœur de la vie de l’aumônerie. </p>
                 </div>
             </div>
         </div>

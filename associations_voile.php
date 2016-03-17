@@ -37,7 +37,8 @@
             <div class="row">
                 <img src="img/associations/illustrations/voile.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
-                    <p class="text-justify">Quoi de plus naturel au cœur de la région Bordelaise que de se tourner vers l’océan ? Jeune moussaillon ou navigateur accompli, rejoins chaque jeudi après-midi l’association voile sur le bassin d’Arcachon. Hobie Cat 16 et 420 sont au rendez-vous pour te permettre de naviguer en compagnie des étudiants de Kedge et de Science Po. Chaque année, le campus de Bordeaux-Talence participe à la Course Croisière EDHEC, la plus grande régate étudiante d’Europe, et affronte les équipages des grandes écoles françaises. Retrouve-nous au cœur d’une compétition hors norme et viens défendre ton école !</p>
+                    <p class="text-justify">Quoi de plus naturel au cœur de la région Bordelaise que de se tourner vers l’océan ? Jeune moussaillon ou navigateur accompli, rejoins chaque jeudi après-midi l’association voile sur le bassin d’Arcachon. Hobie Cat 16 et 420 sont au rendez-vous pour te permettre de naviguer en compagnie des étudiants de Kedge et de Science Po.</p>
+                    <p class="text-justify">Chaque année, le campus de Bordeaux-Talence participe à la Course Croisière EDHEC, la plus grande régate étudiante d’Europe, et affronte les équipages des grandes écoles françaises. Retrouve-nous au cœur d’une compétition hors norme et viens défendre ton école !</p>
                 </div>
             </div>
         </div>

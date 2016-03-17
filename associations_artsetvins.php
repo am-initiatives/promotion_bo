@@ -37,9 +37,7 @@
             <div class="row">
                 <img src="img/associations/illustrations/artsetvins.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
-                    <p class="text-justify">Avec une école située au cœur du vignoble bordelais, Arts et Vins offre la possibilité de découvrir l’œnologie.</p>
-                    <p class="text-justify">Grâce aux dégustations organisées dans des châteaux et dans l’école, l’association fait découvrir les vins de la région Bordelaise, mais aussi d’autres vignobles français et internationaux. De nombreuses visites, alliant cultures et dégustations, sont organisés tout au long de l’année. </p>
-                    <p class="text-center">Les maitres mots d’Arts et Vins sont la convivialité, la découverte, l’ouverture d’esprit ainsi que l’amour des produits de notre terroir. </p>
+                    <p class="text-justify">Amateur de bon vin ou simple curieux néophyte, rejoins Arts et Vins, l’association d’œnologie de l’école. Entre visites de châteaux et soirées de dégustations, tu apprendras à savourer les vins de Bordeaux mais aussi du monde entier. Alliant découvertes et bonne humeur, Arts et Vins saura te faire partager et apprécier le patrimoine régional viticole et ses multiples facettes, allant du Sauternes au Bordeaux Supérieur.</p>
                 </div>
             </div>
         </div>

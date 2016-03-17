@@ -37,8 +37,8 @@
             <div class="row">
                 <img src="img/associations/illustrations/amje.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
-                    <p class="text-justify">AMJE Bordeaux (Arts et Métiers Junior Etudes) est une Junior-Entreprise gérée par les étudiants de l’école. Membre de la CNJE (Confédération Nationale des Junior-Entreprises), elle concrétise les projets de particuliers et de professionnels depuis plus de 30 ans.</p>
-                    <p class="text-justify">En rejoignant l’équipe, tu pourras mettre tes compétences et tes connaissances technologiques à profit pour mener à bien des projets. Appartenir au conseil d’administration te permettra aussi de découvrir le monde de l’entreprise et son fonctionnement.</p>
+                    <p class="text-justify">AMJE Bordeaux est une Junior-Entreprise gérée par les élèves ingénieurs. Travaillant en collaboration avec des particuliers et des professionnels depuis plus de 30 ans, AMJE permet à tous les étudiants de commencer à rentrer dans le monde de l’entreprise.</p>
+                    <p class="text-justify">Tu souhaites acquérir des compétences professionnelles et te former hors du cursus scolaire classique ? Alors rejoins l’équipe, forme toi à des métiers concrets de l’entreprise et lance-toi dans un projet professionnel ! Que tu sois attiré par le BTP, les nouvelles technologies ou que tu souhaites réaliser un projet innovant et original, participer à AMJE sera un atout dans ta formation.</p>
                     <p class="text-center">Pour tout renseignements : <a href="http://www.amje-bordeaux.fr">www.amje-bordeaux.fr</a></p>
                 </div>
             </div>

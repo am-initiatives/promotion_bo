@@ -37,7 +37,8 @@
             <div class="row">
                 <img src="img/associations/illustrations/gasole.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
-                    <p class="text-justify">Gasole est l’association solidaire étudiante de l’école des Arts et Métiers. Elle a pour vocation de faire rayonner les valeurs chères aux yeux des Gadzarts : fraternité et solidarité. L’association est présente sur les différents grands évènements solidaires : elle participe au Téléthon, aide le Secours Populaire et les Restos du Cœur dans leurs récoltes alimentaires. De l’éducation au handicap, les engagements de Gasole sont nombreux et diversifiés. Les étudiants n’hésitent pas à aller aux contacts des sans-abris lors de maraudes ou à prêter main forte à l’EFS (Etablissement Français du Sang) lors de récoltes. L’objectif : Que la solidarité ne s’arrête pas aux portes de l’école. </p>
+                    <p class="text-center text-muted">La solidarité ne s’arrête pas aux portes de l’école</p>
+                    <p class="text-justify">L’association solidaire étudiante des Arts et Métiers concrétise les valeurs chères des Gadzarts : fraternité et solidarité. Gasole est présente sur de grands évènements solidaires, elle participe au Téléthon, aide le Secours Populaire et les Restos du Cœur. De l’éducation au handicap, ses engagements sont nombreux et diversifiés. Tu rêves d’humanitaire ? En t’engageant à Gasole, tu pourras exprimer toute ta générosité près de chez toi, améliorer la vie quotidienne de tes concitoyens et faire rayonner l’école.</p>
                 </div>
             </div>
         </div>

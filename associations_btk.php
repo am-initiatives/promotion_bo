@@ -37,7 +37,8 @@
             <div class="row">
                 <img src="img/associations/illustrations/btk.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
-                    <p class="text-justify">Bouge ton Karma est une association qui participe chaque année à la mise en service de Foster Homes à Bangalore en Inde. Ces maisons accueillent des jeunes filles de 3 à 12 ans, et leur permet ainsi de s’épanouir et de bénéficier d’une formation pour sortir de la rue. Chaque été, une quarantaine d’étudiants part en Inde pour rénover et améliorer les Foster Homes. Rejoins BTK pour découvrir l’Inde à travers un voyage humanitaire sans équivalent.</p>
+                    <p class="text-justify">L’association humanitaire Bouge ton Karma vient en aide à des fillettes défavorisées dans le sud de l’Inde. L’objectif est de leur permettre de s’épanouir et de bénéficier d’une formation pour sortir de la rue.</p>
+                    <p class="text-justify">Fondée en partenariat avec les étudiants en médecine de Toulouse, elle envoie chaque année une quarantaine d’élèves ingénieurs dans la région de Bangalore. Leur mission : construire et rénover des Foster Homes, maisons d’accueils des jeunes filles, mais aussi divertir les habitantes toute la durée du séjour. Si tu rêves de t’engager dans l’humanitaire, de découvrir une culture et un mode de vie bien loin des coutumes occidentales, rejoins BTK et pars à l’aventure ! Tu sortiras transformé de cette expérience hors du commun et accessible à tous. </p>
                 </div>
             </div>
         </div>

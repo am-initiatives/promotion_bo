@@ -85,30 +85,33 @@
                 <div class="row">
                     <div class="col-xs-2 col-xs-offset-1 col-md-offset-2"><img src="img/vie_pratique/velo.png" class="img-circle" data-toggle="collapse" href="#collapseVelo"/></div>
                     <div class="col-xs-2"><img src="img/vie_pratique/tram.png" class="img-circle" data-toggle="collapse" href="#collapseTram" aria-expanded="true"/></div>
-                    <div class="col-xs-2"><img src="img/vie_pratique/bus.png" class="img-circle" data-toggle="collapse" href="#collapseBus" aria-expanded="true"/></div>
+                    <div class="col-xs-2"><img src="img/vie_pratique/bus.png" class="img-circle" data-toggle="collapse" href="#collapseBus"/></div>
                     <div class="col-xs-2"><img src="img/vie_pratique/train.png" class="img-circle" data-toggle="collapse" href="#collapseTrain"/></div>
                     <div class="col-xs-2"><img src="img/vie_pratique/avion.png" class="img-circle" data-toggle="collapse" href="#collapseAvion"/></div>
                 </div>
                 <div class="row">
                     <div class="collapse" id="collapseVelo">
                         <h3 class="text-couleur">Vélo</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p>Plus rapide que le tramway en ville.<p>
+                        <p><span class="text-bold">VCUB</span><br>
+                            (Vélo de la Communauté Urbaine de Bordeaux)<br>
+                            Gratuit les 30 premières minutes.</p>
                     </div>
                     <div class="collapse in" id="collapseTram">
                         <h3 class="text-couleur">Tramway</h3>
-                        <p>Arrêt le plus proche : Arts et Métiers - Ligne B : 20min pour rejoindre le centre-ville</p>
-                        <p>Si vous n’avez pas de trajet quotidien en tram, nous vous déconseillons de prendre la carte annuellemais simplement la carte étudiant TBC (au relais TBC en face de la BU) vous permettant de profiter d’un tarif réduit sur tout le réseau TBC. Les tram et bus circulent jusqu’à 1h15 du matin du jeudi au samedi et à minuit les autres jours.</p>
+                        <p>Arrêt Arts et Métiers à 400m – Ligne B (20 min du centre ville).<br>
+                            Jusqu’à 00h du dimanche au mercredi, 1h15 du jeudi au samedi.</p>
                     </div>
-                    <div class="collapse in" id="collapseBus">
+                    <div class="collapse" id="collapseBus">
                         <h3 class="text-couleur">Bus</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p>Arrêt Arts et Métiers - Ligne ?<br>
+                            Ligne nocturne (58) entre 1h30 et 5h30 du jeudi au samedi, (Paludate-Victoire-Campus) dépose devant l’Ecole.</p>
                     </div>
                     <div class="collapse" id="collapseTrain">
                         <h3 class="text-couleur">Train</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p>Gare Saint-Jean – Trains quotidiens vers Toulouse, Marseille et Paris.<br>
+                            Desservie par les lignes de bus 10, 9 et 16 (25min, lignes directes)<br>
+                            Desservie par le tram C (45min en changeant à Quinconces).</p>
                     </div>
                     <div class="collapse" id="collapseAvion">
                         <h3 class="text-couleur">Avion</h3>
@@ -134,28 +137,39 @@
                 <div class="row">
                     <div class="collapse in" id="collapseMedecin">
                         <h3 class="text-couleur">Médecine préventive</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p>Lundi au Jeudi : 9h-19h<br>
+                            Vendredi : 9h-17h<br>
+                            Consultations médicales sur RDV (aucun frais à avancer) : générale, gynécologie, tabacologie, dermatologie, etc<br>
+                            Certificats médicaux<br>
+                            En face de l’arrêt de Doyen Brus (Tram B)</p>
                     </div>
                     <div class="collapse" id="collapsePharmacie">
                         <h3 class="text-couleur">Pharmacie</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p><span class="text-bold">Pharmacie J&M Teulé</span><br>
+                            485 cours de la Libération, 33400 Talence</p>
                     </div>
                     <div class="collapse" id="collapseHopital">
                         <h3 class="text-couleur">Hopital</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p><span class="text-bold">Hôpital Pellegrin</span><br>
+                            (10 minutes en voiture)<br>
+                            Pl Amélie Raba Léon, 33076 Bordeaux Cedex</p>
                     </div>
                     <div class="collapse" id="collapseSecu">
                         <h3 class="text-couleur">Sécurité Sociale</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p><span class="text-bold">Vittavi</span><br>
+                            Arrêt Victoire (Tram B)<br>
+                            21 place de la Victoire, 33000 Bordeaux<br>
+                            05 57 95 07 01</p>
+                        <p><span class="text-bold">LMDE</span><br>
+                            Arrêt St Nicolas (Tram B)<br>
+                            24 cours Argonne, 33000 Bordeaux<br>
+                            09 69 36 96 01</p>
                     </div>
                     <div class="collapse" id="collapseAssistance">
                         <h3 class="text-couleur">Assistance Sociale</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p>Lundi, Jeudi: 9h30-12h & 13h30-16h<br>
+                            Bâtiment A 22 Rez de Chaussée<br>
+                            351 Av. de la libération, 33405 Talence</p>
                     </div>
                 </div>
             </div>
@@ -189,18 +203,33 @@
                     </div>
                     <div class="collapse" id="collapseFastfood">
                         <h3 class="text-couleur">Restauration Rapide</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p><span class="text-bold">Restaurant Universitaire</span><br>
+                            Midi et soir en semaine, 3€25, grande variété de plats</p>
+                        <p><span class="text-bold">McDonald’s</span><br>
+                            Rond Point de l’Université, 33400 Talence</p>
+                        <p><span class="text-bold">Subway</span><br>
+                            Rond Point de l’Université, 33400 Talence</p>
+                        <p><span class="text-bold">HFC</span><br>
+                            Cours de la Libération, 33400 Talence</p>
+                        <p><span class="text-bold">BBS : Burger Bagels & Samosa</span><br>
+                            Entre Kedge et le CREPS, cours de la Libération. (midi et soir)</p>
                     </div>
                     <div class="collapse" id="collapseLivraison">
                         <h3 class="text-couleur">Livraison</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p><span class="text-bold">Domino’s Pizza</span><br>
+                            61 av Jean Jaures, 33600 Pessac - Ouvert 7j/7
+                            05 56 95 09 00</p>
+                        <p><span class="text-bold">Sushi Shop</span><br>
+                            0 826 826 826</p>
                     </div>
                     <div class="collapse" id="collapseBoulangerie">
                         <h3 class="text-couleur">Boulangerie</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p><span class="text-bold">Cafetéria Arts et Métiers</span><br>
+                            Hall d'honneur</p>
+                        <p><span class="text-bold">Le fournil de Compostelle</span><br>
+                            755 Cours de la Libération, 33600 Pessac</p>
+                        <p><span class="text-bold">Le 48</span><br>
+                            13 Avenue Roul, 33400 Talence</p>
                     </div>
                 </div>
             </div>
@@ -239,8 +268,8 @@
                     </div>
                     <div class="collapse" id="collapseShopping">
                         <h3 class="text-couleur">Shopping</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p>Rue Sainte Catherine<br>
+                            Arrêt Hotel de ville (Tram B)</p>
                     </div>
                 </div>
             </div>
