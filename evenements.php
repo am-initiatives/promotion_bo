@@ -1,11 +1,11 @@
-<?php $page="sports";?>
+<?php $page="associations";?>
 
 <!DOCTYPE html>
 <html lang="fr">
 
 <?php include("_header.php"); ?>
 
-<body id="evenements" class="index">
+<body id="associations" class="index">
 
     <?php include("_navbar.php"); ?>
 
@@ -21,7 +21,7 @@
                         <a href="sport.php">Sport</a>
                     </li>
                     <li class="col-md-2 col-sm-4">
-                        <a href="#evenements" class="active">Evenements</a>
+                        <a href="#associations" class="active">Evenements</a>
                     </li>
                 </ul>
             </div>

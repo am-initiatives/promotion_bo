@@ -1,4 +1,4 @@
-<?php $page="sports";?>
+<?php $page="associations";?>
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -18,7 +18,7 @@
                         <a href="associations.php">Associations</a>
                     </li>
                     <li class="col-md-2 col-sm-4">
-                        <a href="#sport" class="active">Sport</a>
+                        <a href="#associations" class="active">Sport</a>
                     </li>
                     <li class="col-md-2 col-sm-4">
                         <a href="evenements.php">Evenements</a>
