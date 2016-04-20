@@ -26,7 +26,7 @@
                     <a href="associations.php"<?php if($page=="associations"){echo ' class="active"';}?>>Vie Etudiante</a>
                 </li>
                 <li class="col-md-2 lien_etudes">
-                    <a href="etudes.php"<?php if($page=="etudes"){echo ' class="active"';}?>>Etudes</a>
+                    <a href="cursus.php"<?php if($page=="etudes"){echo ' class="active"';}?>>Etudes</a>
                 </li>
             </ul>
         </div>
