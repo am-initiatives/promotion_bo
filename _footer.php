@@ -39,20 +39,21 @@
         <div class="col-md-3 text-right">
             <h4>Plan du site</h4>
             <h5 class="text-uppercase text-rouge">Logement</h5>
-                <a class="text-muted">Résidences</a><br>
-                <a class="text-muted">Appartements</a><br>
-                <a class="text-muted">Services</a>
+                <a href="logement.php#section_residences" class="text-muted">Résidences</a><br>
+                <a href="logement.php#section_appartements" class="text-muted">Appartements</a><br>
+                <a href="logement.php#section_services" class="text-muted">Services</a>
             <h5 class="text-uppercase text-orange">Campus</h5>
-                <a class="text-muted">Campus</a><br>
-                <a class="text-muted">Vie Pratique</a>
+                <a href="campus.php" class="text-muted">Campus</a><br>
+                <a href="vie_pratique.php" class="text-muted">Vie Pratique</a><br>
+                <a href="bordeaux.php" class="text-muted">Bordeaux</a>
             <h5 class="text-uppercase text-vert">Vie Etudiante</h5>
-                <a class="text-muted">Associations</a><br>
-                <a class="text-muted">Sport</a><br>
-                <a class="text-muted">Evenements</a>
+                <a href="associations.php" class="text-muted">Associations</a><br>
+                <a href="sport.php" class="text-muted">Sport</a><br>
+                <a href="evenements.php" class="text-muted">Evenements</a>
             <h5 class="text-uppercase text-bleu">Etudes</h5>
-                <a class="text-muted">Cursus</a><br>
-                <a class="text-muted">Ecole</a><br>
-                <a class="text-muted">International</a>
+                <a href="cursus.php#section_contexte" class="text-muted">Contexte</a><br>
+                <a href="cursus.php#section_cursus" class="text-muted">Cursus</a><br>
+                <a href="international.php" class="text-muted">International</a>
         </div>
     </div>
 </footer>

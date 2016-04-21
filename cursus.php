@@ -15,10 +15,10 @@
             <div id="sous_menu_etudes">
                 <ul class="nav">
                     <li class="col-md-2 col-md-offset-3">
-                        <a href="#section-contexte" class="active">Contexte</a>
+                        <a href="#section_contexte" class="active">Contexte</a>
                     </li>
                     <li class="col-md-2 ">
-                        <a href="#section-cursus">Cursus</a>
+                        <a href="#section_cursus">Cursus</a>
                     </li>
                     <li class="col-md-2">
                         <a href="international.php">International</a>
@@ -28,7 +28,7 @@
         </div>
     </nav>
 
-    <section id="section-contexte" class="bg_beige">
+    <section id="section_contexte" class="bg_beige">
         <div class="container">
             <div class="row">
                 <h2 class="text-uppercase text-couleur text-right col-md-10 col-md-offset-1">Contexte</h2>
@@ -44,7 +44,7 @@
         </div>
     </div>
 
-    <section id="section-cursus" class="bg_beige">
+    <section id="section_cursus" class="bg_beige">
         <div class="container">
             <div class="row col-md-10 col-md-offset-1 infos">
                 <img src="img/cursus/usinage.jpg" class="img-responsive">

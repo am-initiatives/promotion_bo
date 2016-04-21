@@ -15,20 +15,20 @@
             <div id="sous_menu_etudes">
                 <ul class="nav">
                     <li class="col-md-2 col-md-offset-3">
-                        <a href="cursus.php#section-contexte">Contexte</a>
+                        <a href="cursus.php">Contexte</a>
                     </li>
                     <li class="col-md-2 ">
-                        <a href="cursus.php#section-cursus">Cursus</a>
+                        <a href="cursus.php#section_cursus">Cursus</a>
                     </li>
                     <li class="col-md-2">
-                        <a href="#section-international" class="active">International</a>
+                        <a href="#section_international" class="active">International</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-    <section id="section-partir" class="bg_beige">
+    <section id="section_partir" class="bg_beige">
         <div class="container">
             <h2 class="text-uppercase text-couleur">Partir à l'étranger</h2>
             <div class="col-md-12">
@@ -38,7 +38,7 @@
         </div>
     </section>
 
-    <section id="section-cursus-etranger">
+    <section id="section_cursus-etranger">
         <div class="container">
             <h2 class="text-uppercase text-center text-muted">Différents types de cursus</h2>
             <p class="text-center text-muted"><i>(Cliquer sur les cercles pour plus d'informations)</i></p><br>
@@ -52,7 +52,7 @@
         </div>
     </section>
 
-    <section id="section-informations-cursus" class="bg_beige">
+    <section id="section_informations-cursus" class="bg_beige">
         <div class="container">
             <div class="row text-muted">
                 <h3>Pour plus d'informations sur les cursus proposés...</h3><br>
@@ -72,7 +72,7 @@
         </div>
     </section>
 
-    <section id="section-mobilite">
+    <section id="section_mobilite">
         <div class="container">
             <div class="row text-center">
                 <i class="fa fa-5x fa-exclamation-triangle" aria-hidden="true"></i>
