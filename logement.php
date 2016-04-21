@@ -59,7 +59,7 @@
                     </div>
                 </div>
             </div>
-            <img src="img/logement/resid.jpg" class="col-md-5 img-responsive">
+            <img src="img/logement/resid.jpg" class="col-md-5 img-responsive center-block">
         </div>
     </section>
 

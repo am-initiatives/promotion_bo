@@ -30,60 +30,59 @@
 
     <section id="section_semaine" class="bg_beige">
         <div class="container">
-            <div class="row text-center text-uppercase">
-                <a href="#section_jours-lundi" class="text-couleur"><h3 class="col-md-2">Lundi</h3></a>
-                <a href="#section_jours-mercredi" class="text-couleur"><h3 class="col-md-2 col-md-offset-2">Mercredi</h3></a>
-                <a href="#section_jours-vendredi" class="text-couleur"><h3 class="col-md-2 col-md-offset-2">Vendredi</h3></a>
-            </div>
-            <div class="row text-center ligne">
-                <div class="col-md-2"><div class="point center-block"></div></div>
-                <div class="col-md-2"><div class="point center-block"></div></div>
-                <div class="col-md-2"><div class="point center-block"></div></div>
-                <div class="col-md-2"><div class="point center-block"></div></div>
-                <div class="col-md-2"><div class="point center-block"></div></div>
-                <div class="col-md-2"><div class="point center-block"></div></div>
+            <div class="row text-center text-couleur">
+                <h3>Notre petit tour de Bordeaux en une semaine...</h3><br>
             </div>
             <div class="row text-center text-uppercase">
-                <a href="#section_jours-mardi" class="text-couleur"><h3 class="col-md-2 col-md-offset-2">Mardi</h3></a>
-                <a href="#section_jours-jeudi" class="text-couleur"><h3 class="col-md-2 col-md-offset-2">Jeudi</h3></a>
-                <a href="#section_jours-we" class="text-couleur"><h3 class="col-md-2 col-md-offset-2">Week-end</h3></a>
+                <a href="#section_jours-lundi" class="text-couleur"><h3 class="col-sm-2">Lundi</h3></a>
+                <a href="#section_jours-mercredi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Mercredi</h3></a>
+                <a href="#section_jours-vendredi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Vendredi</h3></a>
+            </div>
+            <div class="row ligne bg_orange">
+                <div class="col-sm-2"><div class="point center-block"></div></div>
+                <div class="col-sm-2"><div class="point center-block"></div></div>
+                <div class="col-sm-2"><div class="point center-block"></div></div>
+                <div class="col-sm-2"><div class="point center-block"></div></div>
+                <div class="col-sm-2"><div class="point center-block"></div></div>
+                <div class="col-sm-2"><div class="point center-block"></div></div>
+            </div>
+            <div class="row text-center text-uppercase">
+                <a href="#section_jours-mardi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Mardi</h3></a>
+                <a href="#section_jours-jeudi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Jeudi</h3></a>
+                <a href="#section_jours-we" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Week-end</h3></a>
             </div>
         </div>
     </section>
 
-    <section id="section_jours-lundi">
+    <section id="section_jours" class="bg_orange">
         <div class="container">
+            <section id="section_jours-lundi">
+                <div class="col-md-6 bg_blanc">
+                    <h3 class="text-center">Chateau de sable au Pilat</h3>
+                    <p class="text-justify"></p>
+                </div>
+                <img src="" class="col-md-6">
+            </section>
 
-        </div>
-    </section>
+            <section id="section_jours-mardi">
 
-    <section id="section_jours-mardi">
-        <div class="container">
+            </section>
 
-        </div>
-    </section>
+            <section id="section_jours-mercredi">
 
-    <section id="section_jours-mercredi">
-        <div class="container">
+            </section>
 
-        </div>
-    </section>
+            <section id="section_jours-jeudi">
 
-    <section id="section_jours-jeudi">
-        <div class="container">
+            </section>
 
-        </div>
-    </section>
+            <section id="section_jours-vendredi">
 
-    <section id="section_jours-vendredi">
-        <div class="container">
+            </section>
 
-        </div>
-    </section>
+            <section id="section_jours-we">
 
-    <section id="section_jours-we">
-        <div class="container">
-
+            </section>
         </div>
     </section>
 
