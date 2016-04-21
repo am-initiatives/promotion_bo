@@ -14,11 +14,14 @@
             <!-- Liens du sous menu -->
             <div id="sous_menu_campus">
                 <ul class="nav">
-                    <li class="col-md-2 col-md-offset-4 col-sm-6">
+                    <li class="col-md-2 col-md-offset-3">
                         <a href="#campus" class="active">Campus</a>
                     </li>
-                    <li class="col-md-2 col-sm-6">
+                    <li class="col-md-2">
                         <a href="vie_pratique.php">Vie Pratique</a>
+                    </li>
+                    <li class="col-md-2">
+                        <a href="bordeaux.php">Bordeaux</a>
                     </li>
                 </ul>
             </div>

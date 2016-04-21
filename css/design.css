@@ -127,6 +127,24 @@ section#section_evenements .row{
 section#section_evenements img{
     padding: 0;
 }
+section#section-cursus #suitePratique, section#section-cursus #suiteMatieres, section#section-cursus #suiteViePro, section#section-cursus #suiteDiplome{
+    display: none;
+}
+section#section-cursus .infos{
+    background-color: white;
+    margin-bottom: 30px;
+    padding: 0;
+}
+section#section-cursus .infos p{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+section#section-cursus-etranger .cercle-cache{
+    display: none;
+}
+section#section-informations-cursus .fa, section#section-mobilite .fa{
+    color: #4e4e4e;
+}
 footer{
     padding-bottom: 50px;
 }
