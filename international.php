@@ -18,10 +18,10 @@
                         <a href="cursus.php">Contexte</a>
                     </li>
                     <li class="col-md-2 ">
-                        <a href="cursus.php#section_cursus">Cursus</a>
+                        <a href="cursus.php">Cursus</a>
                     </li>
                     <li class="col-md-2">
-                        <a href="#section_international" class="active">International</a>
+                        <a href="#section_partir" class="active">International</a>
                     </li>
                 </ul>
             </div>
@@ -43,7 +43,7 @@
             <h2 class="text-uppercase text-center text-muted">Différents types de cursus</h2>
             <p class="text-center text-muted"><i>(Cliquer sur les cercles pour plus d'informations)</i></p><br>
             <div class="row text-uppercase text-center">
-                <a href="#" onclick="document.getElementById('cercleDD').style.display = 'block'; this.style.display = 'none';"><img src="img/international/cercle-dd.jpg" class="col-md-3"></a>
+                <a href="#nogo" onclick="document.getElementById('cercleDD').style.display = 'block'; this.style.display = 'none';"><img src="img/international/cercle-dd.jpg" class="col-md-3"></a>
                 <img src="img/international/cercle-dd-2.jpg" id="cercleDD" class=" col-md-3 cercle-cache">
                 <img src="img/international/cercle-dd.jpg" class="col-md-3 cercle-dd">
                 <img src="img/international/cercle-dd.jpg" class="col-md-3 cercle-dd">
@@ -54,9 +54,7 @@
 
     <section id="section_informations-cursus" class="bg_beige">
         <div class="container">
-            <div class="row text-muted">
-                <h3>Pour plus d'informations sur les cursus proposés...</h3><br>
-            </div>
+            <h3 class="text-muted">Pour plus d'informations sur les cursus proposés...</h3><br>
             <div class="row text-center">
                 <div class="col-md-6">
                     <i class="fa fa-3x fa-sitemap" aria-hidden="true"></i>

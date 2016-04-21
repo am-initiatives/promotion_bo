@@ -30,11 +30,9 @@
 
     <section id="section_domaine" class="bg_beige">
         <div class="container">
-            <div class="row">
-                <h2 class="text-uppercase text-couleur">Le domaine universitaire</h2>
-                <p class="text-muted text-justify col-xs-12">L’Ecole des Arts et Métiers de Bordeaux-Talence est implantée sur le domaine universitaire Talence-Pessac-Gradignan, plus grand campus de l’agglomération bordelaise. Il accueille environ 65 000 étudiants, 5 000 chercheurs et enseignants et 3 000 membres du personnel. D’une superficie totale de 235 hectares, il s’agit du deuxième plus grand campus de France après Paris-Sud. Le tramway (ligne B) traverse le campus par les stations Peixotto, Béthanie, Arts et Métiers, François Bordes, Doyen Brus, Montaigne Montesquieu et UNITEC.</p>
-                <img src="img/campus/campus.jpg" class="img-responsive">
-            </div>
+            <h2 class="text-uppercase text-couleur">Le domaine universitaire</h2>
+            <p class="text-muted text-justify">L’Ecole des Arts et Métiers de Bordeaux-Talence est implantée sur le domaine universitaire Talence-Pessac-Gradignan, plus grand campus de l’agglomération bordelaise. Il accueille environ 65 000 étudiants, 5 000 chercheurs et enseignants et 3 000 membres du personnel. D’une superficie totale de 235 hectares, il s’agit du deuxième plus grand campus de France après Paris-Sud. Le tramway (ligne B) traverse le campus par les stations Peixotto, Béthanie, Arts et Métiers, François Bordes, Doyen Brus, Montaigne Montesquieu et UNITEC.</p>
+            <img src="img/campus/campus.jpg" class="img-responsive">
         </div>
     </section>
 

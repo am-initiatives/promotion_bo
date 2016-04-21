@@ -28,61 +28,77 @@
         </div>
     </nav>
 
-    <section id="section_semaine" class="bg_beige">
+    <section id="section_semaine" class="bg_beige hidden-xs">
         <div class="container">
-            <div class="row text-center text-couleur">
-                <h3>Notre petit tour de Bordeaux en une semaine...</h3><br>
-            </div>
-            <div class="row text-center text-uppercase">
-                <a href="#section_jours-lundi" class="text-couleur"><h3 class="col-sm-2">Lundi</h3></a>
-                <a href="#section_jours-mercredi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Mercredi</h3></a>
-                <a href="#section_jours-vendredi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Vendredi</h3></a>
-            </div>
-            <div class="row ligne bg_orange">
-                <div class="col-sm-2"><div class="point center-block"></div></div>
-                <div class="col-sm-2"><div class="point center-block"></div></div>
-                <div class="col-sm-2"><div class="point center-block"></div></div>
-                <div class="col-sm-2"><div class="point center-block"></div></div>
-                <div class="col-sm-2"><div class="point center-block"></div></div>
-                <div class="col-sm-2"><div class="point center-block"></div></div>
-            </div>
-            <div class="row text-center text-uppercase">
-                <a href="#section_jours-mardi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Mardi</h3></a>
-                <a href="#section_jours-jeudi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Jeudi</h3></a>
-                <a href="#section_jours-we" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Week-end</h3></a>
+            <div class="col-sm-12">
+                <div class="row text-center text-couleur">
+                    <h3>Notre petit tour de Bordeaux en une semaine...</h3><br>
+                </div>
+                <div class="row text-center text-uppercase">
+                    <a href="#lundi" class="text-couleur"><h3 class="col-sm-2">Lundi</h3></a>
+                    <a href="#mercredi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Mercredi</h3></a>
+                    <a href="#vendredi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Vendredi</h3></a>
+                </div>
+                <div class="row ligne bg_orange">
+                    <div class="col-sm-2"><div class="point center-block"></div></div>
+                    <div class="col-sm-2"><div class="point center-block"></div></div>
+                    <div class="col-sm-2"><div class="point center-block"></div></div>
+                    <div class="col-sm-2"><div class="point center-block"></div></div>
+                    <div class="col-sm-2"><div class="point center-block"></div></div>
+                    <div class="col-sm-2"><div class="point center-block"></div></div>
+                </div>
+                <div class="row text-center text-uppercase">
+                    <a href="#mardi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Mardi</h3></a>
+                    <a href="#jeudi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Jeudi</h3></a>
+                    <a href="#we" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Week-end</h3></a>
+                </div>
             </div>
         </div>
     </section>
 
-    <section id="section_jours" class="bg_orange">
+    <section id="section_jours" class="bg_orange text-muted">
         <div class="container">
-            <section id="section_jours-lundi">
-                <div class="col-md-6 bg_blanc">
+            <div id="lundi" class="jours">
+                <div class="bg_blanc col-ext">
+                    <h3 class="text-center">Chateau de sable au Pilat</h3>
+                    <p class="text-justify">Bordeaux et sa région regorgent de lieux à découvrir. Une après-midi de libre ? A 40min des Arts et Métiers, descends pique-niquer à la Dune du Pilat, te balader dans les forêts de pins ou chiller sur la plage. Tu surfes ? Chaque jeudi après-midi sera l’occasion pour toi de pratiquer ton sport sur les plus beaux spots de la côte Atlantique.</p>
+                </div>
+                <div class="bg_beige col-centre">
+
+                </div>
+                <div class="col-ext">
+                    <img src="img/evenements/ve.jpg">
+                </div>
+            </div>
+
+            <div id="mercredi" class="jours">
+                <div class="col-ext">
+                    <img src="">
+                </div>
+                <div class="bg_beige col-centre">
+
+                </div>
+                <div class="bg_blanc col-ext">
                     <h3 class="text-center">Chateau de sable au Pilat</h3>
                     <p class="text-justify"></p>
                 </div>
-                <img src="" class="col-md-6">
-            </section>
+            </div>
 
-            <section id="section_jours-mardi">
+            <div id="vendredi" class="jours">
 
-            </section>
+            </div>
 
-            <section id="section_jours-mercredi">
+            <div id="mardi" class="jours">
 
-            </section>
+            </div>
 
-            <section id="section_jours-jeudi">
+            <div id="jeudi" class="jours">
 
-            </section>
+            </div>
 
-            <section id="section_jours-vendredi">
+            <div id="we" class="jours">
 
-            </section>
-
-            <section id="section_jours-we">
-
-            </section>
+            </div>
         </div>
     </section>
 
