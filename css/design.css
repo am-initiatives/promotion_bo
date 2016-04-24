@@ -167,7 +167,7 @@ section#section_jours .jours .col-ext{
 }
 section#section_jours .jours .col-centre{
     display: table-cell;
-    vertical-align: top;
+    vertical-align: middle;
     width: 10%;
 }
 section#section_jours .jours h3{
@@ -194,6 +194,9 @@ footer h4{
 }
 footer h5{
     margin-bottom:0;
+}
+footer .fa{
+    color: white;
 }
 
 /* Design général */
