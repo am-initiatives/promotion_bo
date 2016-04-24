@@ -35,9 +35,9 @@
                     <h3>Notre petit tour de Bordeaux en une semaine...</h3><br>
                 </div>
                 <div class="row text-center text-uppercase">
-                    <a href="#lundi" class="text-couleur"><h3 class="col-sm-2">Lundi</h3></a>
-                    <a href="#mercredi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Mercredi</h3></a>
-                    <a href="#vendredi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Vendredi</h3></a>
+                    <a href="#lundi" class="text-couleur page-scroll"><h3 class="col-sm-2">Lundi</h3></a>
+                    <a href="#mercredi" class="text-couleur page-scroll"><h3 class="col-sm-2 col-sm-offset-2">Mercredi</h3></a>
+                    <a href="#vendredi" class="text-couleur page-scroll"><h3 class="col-sm-2 col-sm-offset-2">Vendredi</h3></a>
                 </div>
                 <div class="row ligne bg_orange">
                     <div class="col-sm-2"><div class="point center-block"></div></div>
@@ -48,9 +48,9 @@
                     <div class="col-sm-2"><div class="point center-block"></div></div>
                 </div>
                 <div class="row text-center text-uppercase">
-                    <a href="#mardi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Mardi</h3></a>
-                    <a href="#jeudi" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Jeudi</h3></a>
-                    <a href="#we" class="text-couleur"><h3 class="col-sm-2 col-sm-offset-2">Week-end</h3></a>
+                    <a href="#mardi" class="text-couleur page-scroll"><h3 class="col-sm-2 col-sm-offset-2">Mardi</h3></a>
+                    <a href="#jeudi" class="text-couleur page-scroll"><h3 class="col-sm-2 col-sm-offset-2">Jeudi</h3></a>
+                    <a href="#we" class="text-couleur page-scroll"><h3 class="col-sm-2 col-sm-offset-2">Week-end</h3></a>
                 </div>
             </div>
         </div>
