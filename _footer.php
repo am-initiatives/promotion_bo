@@ -2,16 +2,13 @@
     <div class="container">
         <div class="col-md-3">
             <h4>Le mot des créateurs</h4>
-            <p class="text-muted">L'idée de ce site est née..<br>
-                blablabla<br>
-                blablabla<br>
-                blablabla</p>
+            <p class="text-muted text-justify">L'idée de ce site est née d'une envie de transparence totale vis-à-vis des étudiants et de leur cercle proche.
+                Ici, on explique ce que l'on fait tous les jours, pourquoi on le fait, et comment on s'y prend. Rien de plus!
+                Et c'est déjà bien assez, n'est ce pas?</p>
             <h4>Qui Sommes-nous ?</h4>
-            <p class="text-muted">Notre équipe a vu le jour..<br>
-                blablabla<br>
-                blablabla<br>
-                blablabla</p>
-            <a class="text-muted">En savoir plus</a>
+            <p class="text-muted text-justify">Une équipe soudée et créative de Cinq élèves ingénieurs du Campus des Arts et Métiers de Bordeaux, aux talents variés.
+                La diversité de nos compétences nous a permis de développer ce site, tous animés par l'envie de partager et d'informer en toute simplicité.</p>
+            <!--<a class="text-muted">En savoir plus</a>-->
         </div>
         <div class="col-md-6 text-center">
             <h4>Nous contacter</h4>
@@ -33,8 +30,11 @@
                 </div>
             </form>
             <h4>Liens utiles</h4>
-            <a class="text-muted">Site ENSAM</a><br>
-            <a class="text-muted">Site UE</a>
+            <a class="col-xs-1"><i class="fa fa-3x fa-twitter"></i></a>
+            <a class="col-xs-1"><i class="fa fa-3x fa-facebook"></i></a>
+            <a class="text-muted col-xs-3">UE</a>
+            <a class="text-muted col-xs-3">Soce</a>
+            <a class="text-muted col-xs-3">Arts et Métiers</a>
         </div>
         <div class="col-md-3 text-right">
             <h4>Plan du site</h4>
