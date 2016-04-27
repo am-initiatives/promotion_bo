@@ -12,29 +12,30 @@
         </div>
         <div class="col-md-6 text-center">
             <h4>Nous contacter</h4>
-            <form>
-                <div class="col-xs-6">
-                    <div class="form-group">
-                        <input type="text" name="nom" id="nom" class="form-control" placeholder="Nom Prénom">
-                    </div>
+            <form href="" >
+                <div class="col-xs-6 form-group">
+                    <input type="text" name="nom" id="nom" class="form-control" placeholder="Nom Prénom">
                 </div>
-                <div class="col-xs-6">
-                    <div class="form-group">
-                        <input type="email" name="mail" id="mail" class="form-control" placeholder="Adresse Mail">
-                    </div>
+                <div class="col-xs-6 form-group">
+                    <input type="email" name="mail" id="mail" class="form-control" placeholder="Adresse Mail">
                 </div>
-                <div class="col-xs-12">
-                    <div class="form-group">
-                        <textarea name="message" id="message" class="form-control" placeholder="Message" rows=6"></textarea>
+                <div class="col-xs-12 form-group">
+                    <textarea name="message" id="message" class="form-control" placeholder="Message" rows=6"></textarea>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6 col-xs-offset-3 form-group">
+                        <input type="submit" name="envoi" id="envoi" class="form-control" placeholder="Envoyer">
                     </div>
                 </div>
             </form>
             <h4>Liens utiles</h4>
-            <a class="col-xs-1"><i class="fa fa-3x fa-twitter"></i></a>
-            <a class="col-xs-1"><i class="fa fa-3x fa-facebook"></i></a>
-            <a class="text-muted col-xs-3">UE</a>
-            <a class="text-muted col-xs-3">Soce</a>
-            <a class="text-muted col-xs-3">Arts et Métiers</a>
+            <div class="col-xs-3">
+                <a class="col-xs-6"><i class="fa fa-3x fa-twitter"></i></a>
+                <a class="col-xs-6"><i class="fa fa-3x fa-facebook"></i></a>
+            </div>
+            <a href=""><img class="col-xs-3" src="img/footer/ue.png"></a>
+            <a href=""><img class="col-xs-3" src="img/footer/soce.jpg"></a>
+            <a class="col-xs-3" href=""><img src="img/footer/ensam.png"></a>
         </div>
         <div class="col-md-3 text-right">
             <h4>Plan du site</h4>
