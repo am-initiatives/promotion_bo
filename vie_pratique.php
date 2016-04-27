@@ -21,7 +21,7 @@
                         <a href="#campus" class="active">Vie Pratique</a>
                     </li>
                     <li class="col-md-2">
-                        <a href="bordeaux.php"">Bordeaux</a>
+                        <a href="bordeaux.php">Bordeaux</a>
                     </li>
                 </ul>
             </div>
@@ -107,7 +107,7 @@
                     </div>
                     <div class="collapse" id="collapseBus">
                         <h3 class="text-couleur">Bus</h3>
-                        <p>Arrêt Arts et Métiers - Ligne ?<br>
+                        <p>Arrêt Arts et Métiers - Ligne 8, 34 et 87<br>
                             Ligne nocturne (58) entre 1h30 et 5h30 du jeudi au samedi, (Paludate-Victoire-Campus) dépose devant l’Ecole.</p>
                     </div>
                     <div class="collapse" id="collapseTrain">
