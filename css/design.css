@@ -198,6 +198,9 @@ footer h5{
 footer .fa{
     color: white;
 }
+footer a img{
+    width: 100%;
+}
 
 /* Design général */
 
