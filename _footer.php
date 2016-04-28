@@ -24,7 +24,8 @@
                 </div>
                 <div class="row">
                     <div class="col-xs-6 col-xs-offset-3 form-group">
-                        <input type="submit" name="envoi" id="envoi" class="form-control" placeholder="Envoyer">
+                        <!--<input type="submit" name="envoi" id="envoi" class="form-control" placeholder="Envoyer">-->
+                        <p>L'envoi est momentanément indisponible</p>
                     </div>
                 </div>
             </form>
@@ -33,9 +34,9 @@
                 <a class="col-xs-6"><i class="fa fa-3x fa-twitter"></i></a>
                 <a class="col-xs-6"><i class="fa fa-3x fa-facebook"></i></a>
             </div>
-            <a href=""><img class="col-xs-3" src="img/footer/ue.png"></a>
-            <a href=""><img class="col-xs-3" src="img/footer/soce.jpg"></a>
-            <a class="col-xs-3" href=""><img src="img/footer/ensam.png"></a>
+            <a class="col-xs-3" href="http://www.ueensam.org/"><img src="img/footer/ue.jpg"></a>
+            <a class="col-xs-3" href="http://www.arts-et-metiers.asso.fr/"><img src="img/footer/soce.jpg"></a>
+            <a class="col-xs-3" href="http://www.ensam.eu/"><img src="img/footer/ensam.jpg"></a>
         </div>
         <div class="col-md-3 text-right">
             <h4>Plan du site</h4>

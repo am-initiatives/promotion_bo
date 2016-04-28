@@ -200,6 +200,7 @@ footer .fa{
 }
 footer a img{
     width: 100%;
+    border-radius: 5px;
 }
 
 /* Design général */
