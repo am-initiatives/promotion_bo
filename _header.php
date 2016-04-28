@@ -9,18 +9,18 @@
 
     <title>Étudier aux Arts et Métiers - Bordeaux Talence</title>
 
-    <!-- CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/design.css" rel="stylesheet">
+        <!-- CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">-->
+        <link href="css/design.css" rel="stylesheet">-->
 
-    <!-- Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
+        <!-- Fonts -->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
+        <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>-->
 
-    <!-- Support HTML5 pour IE -->
-    <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
-    <![endif]-->
+        <!-- Support HTML5 pour IE -->
+        <!--[if lt IE 9]>-->
+        <script src="js/html5shiv.js"></script>-->
+        <script src="js/respond.min.js"></script>-->
+        <!--[endif]-->
 
 </head>
