@@ -31,8 +31,8 @@
             </form>
             <h4>Liens utiles</h4>
             <div class="col-xs-3">
-                <a class="col-xs-6"><i class="fa fa-3x fa-twitter"></i></a>
-                <a class="col-xs-6"><i class="fa fa-3x fa-facebook"></i></a>
+                <a class="col-xs-6" href="https://twitter.com/AM_ParisTech"><i class="fa fa-3x fa-twitter"></i></a>
+                <a class="col-xs-6" href="https://www.facebook.com/AMParisTech/?fref=ts&rf=111762148842866"><i class="fa fa-3x fa-facebook"></i></a>
             </div>
             <a class="col-xs-3" href="http://www.ueensam.org/"><img src="img/footer/ue.jpg"></a>
             <a class="col-xs-3" href="http://www.arts-et-metiers.asso.fr/"><img src="img/footer/soce.jpg"></a>
