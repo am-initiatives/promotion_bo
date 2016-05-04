@@ -31,8 +31,13 @@
     <section id="section_boquette" class="bg_fonce">
         <div class="container">
             <div class="row">
-                <h1 class="text-uppercase text-couleur text-center">Musique</h1>
-                <p class="text-muted text-center">Club de musique</p>
+                <div class="col-xs-8 col-xs-offset-2">
+                    <h1 class="text-uppercase text-couleur text-center">Musique</h1>
+                    <p class="text-muted text-center">Club de musique</p>
+                </div>
+                <div class="col-xs-2 text-right">
+                    <a href="associations.php"><i class="fa fa-3x fa-times" style="color:grey;"></i></a>
+                </div>
             </div>
             <div class="row">
                 <img src="img/associations/illustrations/ems.jpg" class="col-md-6 col-xs-12">

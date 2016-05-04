@@ -30,6 +30,7 @@
 
     <section id="section_associations" class="bg_beige text-center">
         <div class="container">
+            <p class="text-muted text-center"><i>(Cliquer sur les logos des associations pour plus d'informations)</i></p>
             <div class="row">
                 <div class="col-md-3 col-xs-6">
                     <a href="associations_amje.php" class="cadre_logo"><img src="img/associations/amje.jpg" class="col-xs-12 img-responsive"></a>
