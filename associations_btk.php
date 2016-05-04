@@ -31,8 +31,13 @@
     <section id="section_boquette" class="bg_fonce">
         <div class="container">
             <div class="row">
-                <h1 class="text-uppercase text-couleur text-center">BTK</h1>
-                <p class="text-muted text-center">Association humanitaire</p>
+                <div class="col-md-10">
+                    <h1 class="text-uppercase text-couleur text-center">BTK</h1>
+                    <p class="text-muted text-center">Association humanitaire</p>
+                </div>
+                <div class="col-md-2 text-right">
+                    <i class="fa fa-3x fa-times" style="color:grey;"></i>
+                </div>
             </div>
             <div class="row">
                 <img src="img/associations/illustrations/btk.jpg" class="col-md-6 col-xs-12">
