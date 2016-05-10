@@ -198,9 +198,13 @@ footer h5{
 footer .fa{
     color: white;
 }
+footer a i{
+    margin-bottom: 20px;
+}
 footer a img{
     width: 100%;
     border-radius: 5px;
+    margin-bottom: 20px;
 }
 
 /* Design général */
