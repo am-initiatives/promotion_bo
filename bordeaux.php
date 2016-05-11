@@ -67,13 +67,13 @@
                     <h2 class="text-couleur text-uppercase text-center">L<br>u<br>n<br>d<br>i</h2>
                 </div>
                 <div class="col-ext">
-                    <img src="">
+                    <img src="img/bordeaux/shopping.jpg">
                 </div>
             </div>
 
             <div id="mardi" class="jours">
                 <div class="col-ext">
-                    <img src="">
+                    <img src="img/bordeaux/culture.jpg">
                 </div>
                 <div class="bg_beige col-centre">
                     <h2 class="text-couleur text-uppercase text-center">M<br>a<br>r<br>d<br>i</h2>
@@ -99,7 +99,7 @@
 
             <div id="jeudi" class="jours">
                 <div class="col-ext">
-                    <img src="">
+                    <img src="img/bordeaux/region.jpg">
                 </div>
                 <div class="bg_beige col-centre">
                     <h2 class="text-couleur text-uppercase text-center">J<br>e<br>u<br>d<br>i</h2>
@@ -125,7 +125,7 @@
 
             <div id="we" class="jours">
                 <div class="col-ext">
-                    <img src="">
+                    <img src="img/bordeaux/escapades.jpg">
                 </div>
                 <div class="bg_beige col-centre">
                     <h2 class="text-couleur text-uppercase text-center">W<br>e<br>e<br>k<br>-<br>e<br>n<br>d</h2>
