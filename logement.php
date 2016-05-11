@@ -76,9 +76,10 @@
 
     <section id="section_appartements" class="bg_beige">
         <div class="container text-center">
-            <div class="col-xs-1">
+            <div class="col-xs-1 hidden-xs">
                 <h3 class="text-uppercase text-couleur">Chambres</h3>
             </div>
+            <h2 class="text-uppercase text-couleur text-left visible-xs">Chambres</h2>
             <div class="col-md-3 col-xs-11">
                 <h4 class="text-center text-couleur">Exemple d'appartement type</h4>
                 <img src="img/logement/plan_appart.png" class="col-xs-12">
@@ -123,12 +124,13 @@
 
     <section id="section_services">
         <div class="container">
-            <div class="col-md-1 col-xs-1">
+            <div class="col-sm-1 hidden-xs">
                 <div class="row">
                     <h3 class="text-uppercase text-couleur">Services</h3>
                 </div>
             </div>
-            <div class="col-sm-11 col-xs-11 text-center">
+            <h2 class="text-uppercase text-couleur text-left visible-xs">Services</h2>
+            <div class="col-sm-11 col-xs-12 text-center">
                 <div class="row">
                     <div class="col-md-4">
                         <img src="img/logement/laverie.png" class="logo_services">
