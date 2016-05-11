@@ -10,7 +10,8 @@
     <?php include("_navbar.php"); ?>
 
     <section id="section_accueil" class="bg_noir">
-        <img src="img/accueil.jpg" class="img-responsive">
+        <img src="img/accueil.jpg" class="img-responsive hidden-xs">
+        <img src="img/accueil_mobile.jpg" class="img-responsive visible-xs">
     </section>
 
     <?php include("_footer.php"); ?>
