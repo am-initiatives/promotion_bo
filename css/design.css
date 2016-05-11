@@ -156,30 +156,23 @@ section#section_semaine .point{
     height: 20px;
     width: 20px;
 }
-section#section_jours .jours{
-    display: table-row;
-    padding: 0;
-}
-section#section_jours .jours .col-ext{
-    display: table-cell;
-    vertical-align: top;
-    width: 45%;
-}
-section#section_jours .jours .col-centre{
-    display: table-cell;
-    vertical-align: middle;
-    width: 10%;
-}
-section#section_jours .jours h3{
+section#section_jours h3{
     padding-top: 20px;
 }
-section#section_jours .jours p{
+section#section_jours h2{
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+section#section_jours p{
     padding-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
 }
-section#section_jours .jours img{
-    width: 100%;
+section#section_jours img{
+    padding: 0;
+}
+section#section_jours .row div{
     padding: 0;
 }
 footer{
