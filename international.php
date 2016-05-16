@@ -44,13 +44,13 @@
             <p class="text-center text-muted"><i>(Cliquer sur les cercles pour plus d'informations)</i></p><br>
             <div class="row text-uppercase text-center">
                 <a href="#nogo" onclick="document.getElementById('cercleDD').style.display = 'block'; this.style.display = 'none';"><img src="img/international/double_diplome.jpg" class="col-md-3"></a>
-                <img src="img/international/infos_doublediplome.jpg" id="cercleDD" class=" col-md-3 cercle-cache">
+                <img src="img/international/infos_doublediplome.jpg" id="cercleDD" class="center-block col-md-3 cercle-cache">
                 <a href="#nogo" onclick="document.getElementById('cercleMS').style.display = 'block'; this.style.display = 'none';"><img src="img/international/master_of_science.jpg" class="col-md-3"></a>
-                <img src="img/international/infos_masterscience.jpg" id="cercleMS" class=" col-md-3 cercle-cache">
+                <img src="img/international/infos_masterscience.jpg" id="cercleMS" class="center-block col-md-3 cercle-cache">
                 <a href="#nogo" onclick="document.getElementById('cercleDM').style.display = 'block'; this.style.display = 'none';"><img src="img/international/double_master.jpg" class="col-md-3"></a>
-                <img src="img/international/infos_doublemaster.jpg" id="cercleDM" class=" col-md-3 cercle-cache">
+                <img src="img/international/infos_doublemaster.jpg" id="cercleDM" class="center-block col-md-3 cercle-cache">
                 <a href="#nogo" onclick="document.getElementById('cercleSE').style.display = 'block'; this.style.display = 'none';"><img src="img/international/semestre_echange.jpg" class="col-md-3"></a>
-                <img src="img/international/infos_semestre.jpg" id="cercleSE" class=" col-md-3 cercle-cache">
+                <img src="img/international/infos_semestre.jpg" id="cercleSE" class="center-block col-md-3 cercle-cache">
             </div>
         </div>
     </section>
