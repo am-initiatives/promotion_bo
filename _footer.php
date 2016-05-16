@@ -30,13 +30,13 @@
                 </div>
             </form>
             <h4>Liens utiles</h4>
-            <div class="col-sm-3 col-xs-12">
+            <div class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2">
                 <a class="col-xs-6" href="https://twitter.com/AM_ParisTech"><i class="fa fa-3x fa-twitter"></i></a>
                 <a class="col-xs-6" href="https://www.facebook.com/AMParisTech/?fref=ts&rf=111762148842866"><i class="fa fa-3x fa-facebook"></i></a>
             </div>
-            <a class="col-sm-3 col-xs-12" href="http://www.ueensam.org/"><img src="img/footer/ue.jpg"></a>
-            <a class="col-sm-3 col-xs-12" href="http://www.arts-et-metiers.asso.fr/"><img src="img/footer/soce.jpg"></a>
-            <a class="col-sm-3 col-xs-12" href="http://www.ensam.eu/"><img src="img/footer/ensam.jpg"></a>
+            <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.ueensam.org/"><img src="img/footer/ue.jpg"></a>
+            <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.arts-et-metiers.asso.fr/"><img src="img/footer/soce.jpg"></a>
+            <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.ensam.eu/"><img src="img/footer/ensam.jpg"></a>
         </div>
         <div id="plan_site" class="col-md-3 col-xs-12 text-right">
             <h4>Plan du site</h4>
