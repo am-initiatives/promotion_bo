@@ -18,24 +18,23 @@
                         <a href="cursus.php">Cursus</a>
                     </li>
                     <li class="col-md-2 ">
-                        <a href="temoignages.php">Témoignages</a>
+                        <a href="#etudes" class="active">Témoignages</a>
                     </li>
                     <li class="col-md-2">
-                        <a href="#etudes" class="active">International</a>
+                        <a href="international.php">International</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
-    <section id="section_partir" class="bg_beige">
+    <section id="section_experience" class="bg_beige">
         <div class="container">
-            <h2 class="text-uppercase text-couleur">Partir à l'étranger</h2>
-
+            <h2 class="text-center text-couleur">Quand des élèves des Arts et Métiers de Bordeaux partagent leur expérience...</h2>
         </div>
     </section>
 
-    <section id="section_cursus-etranger">
+    <section id="section_temoignages">
         <div class="container">
 
         </div>
