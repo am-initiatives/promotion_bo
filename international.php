@@ -15,13 +15,13 @@
             <div id="sous_menu_etudes">
                 <ul class="nav">
                     <li class="col-md-2 col-md-offset-3">
-                        <a href="cursus.php">Contexte</a>
-                    </li>
-                    <li class="col-md-2 ">
                         <a href="cursus.php">Cursus</a>
                     </li>
+                    <li class="col-md-2 ">
+                        <a href="temoignages.php">Témoignages</a>
+                    </li>
                     <li class="col-md-2">
-                        <a href="#section_partir" class="active">International</a>
+                        <a href="#etudes" class="active">International</a>
                     </li>
                 </ul>
             </div>

@@ -15,10 +15,10 @@
             <div id="sous_menu_etudes">
                 <ul class="nav">
                     <li class="col-md-2 col-md-offset-3">
-                        <a href="#section_contexte" class="active page-scroll">Contexte</a>
+                        <a href="#etudes" class="active">Cursus</a>
                     </li>
                     <li class="col-md-2 ">
-                        <a href="#section_cursus" class="page-scroll">Cursus</a>
+                        <a href="temoignages.php">Témoignages</a>
                     </li>
                     <li class="col-md-2">
                         <a href="international.php">International</a>
@@ -77,9 +77,7 @@
     <?php include("_footer.php"); ?>
 
     <script src="js/jquery.js"></script>
-    <script src="js/jquery.easing.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/scrolling-nav.js"></script>
 
 </body>
 

@@ -41,9 +41,9 @@
         <div id="plan_site" class="col-md-3 col-xs-12 text-right">
             <h4>Plan du site</h4>
             <h5 class="text-uppercase text-rouge">Logement</h5>
-                <a href="logement.php#section_residences" class="text-muted">Résidences</a><br>
-                <a href="logement.php#section_appartements" class="text-muted">Appartements</a><br>
-                <a href="logement.php#section_services" class="text-muted">Services</a>
+                <a href="logement.php" class="text-muted">Résidences</a><br>
+                <a href="logement.php" class="text-muted">Appartements</a><br>
+                <a href="logement.php" class="text-muted">Services</a>
             <h5 class="text-uppercase text-orange">Campus</h5>
                 <a href="campus.php" class="text-muted">Campus</a><br>
                 <a href="vie_pratique.php" class="text-muted">Vie Pratique</a><br>
@@ -53,8 +53,8 @@
                 <a href="sport.php" class="text-muted">Sport</a><br>
                 <a href="evenements.php" class="text-muted">Evenements</a>
             <h5 class="text-uppercase text-bleu">Etudes</h5>
-                <a href="cursus.php#section_contexte" class="text-muted">Contexte</a><br>
-                <a href="cursus.php#section_cursus" class="text-muted">Cursus</a><br>
+                <a href="cursus.php" class="text-muted">Cursus</a><br>
+                <a href="temoignages.php" class="text-muted">Témoignages</a><br>
                 <a href="international.php" class="text-muted">International</a>
         </div>
     </div>
