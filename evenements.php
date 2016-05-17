@@ -35,15 +35,18 @@
                     <img src="img/evenements/gala.jpg" class="col-md-6 col-xs-12">
                     <div class="col-md-6 col-xs-12">
                         <h2 class="text-right text-uppercase">Grand Gala</h2>
-                        <p>Tu veux organiser le plus Grand Gala d’Aquitaine, qui accueille chaque année des DJs de tous horizons musicaux ? Faire rêver 4000 personnes, avec des spectacles et des groupes étudiants ? Que tu aimes organiser, décorer ou être barman, tous les élèves ingénieurs participent à l’élaboration de la soirée.  Alors rejoins nous dans cette aventure, et participer à l’une des meilleures nuits bordelaises !</p>
-                        <p>Pour en savoir plus :</p>
+                        <p>Tu veux organiser le plus Grand Gala d’Aquitaine, qui accueille chaque année des DJs de tous horizons musicaux ? Faire rêver 4000 personnes, avec des spectacles et des groupes étudiants ?</p>
+                        <p>Que tu aimes organiser, décorer ou être barman, tous les élèves ingénieurs participent à l’élaboration de la soirée.  Alors rejoins nous dans cette aventure, et participer à l’une des meilleures nuits bordelaises !</p>
+                        <p>Pour en savoir plus : <a href="http://ggbo.gadz.org">http://ggbo.gadz.org</a></p>
                     </div>
                 </div>
                 <div class="row bg_sombre text-white text-justify">
                     <img src="img/evenements/ve.jpg" class="col-md-6 col-xs-12">
                     <div class="col-md-6 col-xs-12">
                         <h2 class="text-right text-uppercase">Soirées VE</h2>
-                        <p>Que serait la vie aux Arts et Métiers sans ses célèbres Soirées VE ? Le principe est simple : tu invites tes amis, tu viens et tu t’amuses ! La Vie Étudiante des Arts et Métiers est le pôle évènementiel de l’école. Il se charge de te transmettre les bons plans de sorties en ville ou dans les écoles voisines ; mais surtout d’organiser et d’animer des soirées et apéros toute l’année. Que ce soit pour la Saint Patrick ou à Noël, la VE ne manque jamais une occasion de rassembler le tissu étudiant local pour faire la fête avec les DJ du campus. Alors, tu viens quand ?</p>
+                        <p>Que serait la vie aux Arts et Métiers sans ses célèbres Soirées VE ? Le principe est simple : tu invites tes amis, tu viens et tu t’amuses !</p>
+                        <p>La Vie Étudiante des Arts et Métiers est le pôle évènementiel de l’école. Il se charge de te transmettre les bons plans de sorties en ville ou dans les écoles voisines ; mais surtout d’organiser et d’animer des soirées et apéros toute l’année.</p>
+                        <p>Que ce soit pour la Saint Patrick ou à Noël, la VE ne manque jamais une occasion de rassembler le tissu étudiant local pour faire la fête avec les DJ du campus. Alors, tu viens quand ?</p>
                     </div>
                 </div>
                 <div class="row bg_blanc text-muted text-justify">
@@ -59,14 +62,17 @@
                     <img src="img/evenements/skz.jpg" class="col-md-6 col-xs-12">
                     <div class="col-md-6 col-xs-12">
                         <h2 class="text-right text-uppercase">SKZ</h2>
-                        <p>Ski’O’Zarts, c’est une semaine de ski et de fête pour tous ! Plus de 1200 étudiants se retrouvent dans une station des Alpes durant une semaine à un prix défiant toute concurrence ! Que tu sois débutant ou expérimenté et avide de sensations, les responsables s’occupent de tout pour te permettre de profiter un maximum : compétitions pour les meilleurs, cours d’initiations pour ceux qui le souhaitent. Après une descente aux flambeaux, les bars de la station t’attendent pour des soirées spéciales pleines de surprises !</p>
+                        <p>Ski’O’Zarts, c’est une semaine de ski et de fête pour tous ! Plus de 1200 étudiants se retrouvent dans une station des Alpes durant une semaine à un prix défiant toute concurrence !</p>
+                        <p>Que tu sois débutant ou expérimenté et avide de sensations, les responsables s’occupent de tout pour te permettre de profiter un maximum : compétitions pour les meilleurs, cours d’initiations pour ceux qui le souhaitent. Après une descente aux flambeaux, les bars de la station t’attendent pour des soirées spéciales pleines de surprises !</p>
                     </div>
                 </div>
                 <div class="row bg_blanc text-muted text-justify">
                     <img src="img/evenements/croisiere.jpg" class="col-md-6 col-xs-12">
                     <div class="col-md-6 col-xs-12">
                         <h2 class="text-right text-uppercase">Croisiere AM</h2>
-                        <p>Organisée sur deux semaines, la croisière AM propose à tous les étudiants et anciens élèves de partir vers une destination de rêve en Méditerranée. L’édition 2016 emmène les navigateurs en Croatie, réputée pour sa nature sauvage, ses eaux chaudes et transparentes et ses fêtes dignes d’Ibiza. A bord d’un magnifique voilier et avec une dizaine d’amis, tu passeras les journées à naviguer dans les criques et à te baigner dans des lieux splendides. Le soir, vous débarquerez pour une tournée des bars, et plus encore.</p>
+                        <p>La croisière AM, c’est une occasion unique de partir faire un trip avec ta bande ! Un voilier pour dix personnes, les criques de Croatie, des soirées, que demander de plus ?</p>
+                        <p>Une équipe s’occupe de réserver les bateaux et de t’organiser le voyage, avec kit de nourriture et transport. Tu n’as plus qu’à profiter de ce cadre de rêve ! La seule règle ? Que l’un de vous soit skipper. En étant à Bordeaux, tu auras toute l’année pour passer les certifications et sortir naviguer.</p>
+                        <p>Alors, une semaine de chill sur les eaux turquoise, ça te tente ?</p>
                     </div>
                 </div>
             </div>

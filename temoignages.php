@@ -83,7 +83,7 @@
                         <div class="col-xs-9 text-center">
                             <h2>Jules</h2>
                             <p><b>Elève ingénieur 3ème année</b><br>
-                                Issu de classe préparatoire</p>
+                                Actuellement à l'Imperial College de Londres</p>
                         </div>
                     </div>
                     <div class="row">
@@ -102,7 +102,7 @@
                         <div class="col-xs-9 text-center">
                             <h2>Clément</h2>
                             <p><b>Elève ingénieur 2ème année</b><br>
-                                Issu de classe préparatoire</p>
+                                Issu du double-diplôme ESTP</p>
                         </div>
                     </div>
                     <div class="row">
@@ -121,8 +121,7 @@
                         <img src="" class="col-xs-3 img-circle">
                         <div class="col-xs-9 text-center">
                             <h2>Milène</h2>
-                            <p><b>Elève ingénieur 2ème année</b><br>
-                                Actuellement en double-diplôme avec l'Universidad El Bosque - Colombie</p>
+                            <p><b>Elève ingénieur 2ème année</b><br></p>
                         </div>
                     </div>
                     <div class="row">
