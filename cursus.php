@@ -32,8 +32,9 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-uppercase text-couleur text-right col-md-10 col-md-offset-1">Contexte</h2>
-                <img src="img/cursus/aero.jpg" class="img-responsive img-circle col-md-3 col-md-offset-1">
-                <p class="text-muted text-justify col-md-7">Même si le contenu des cours est très généraliste, et permet de devenir ingénieur dans n’importe quel domaine, le campus de Bordeaux-Talence est tourné vers l’aéronautique. Installé au cœur de l’Aerospace Valley, il assure un lien permanent avec les entreprises du secteur via le réseau des anciens élèves.</p>
+                <img src="img/cursus/aero.jpg" class="img-responsive img-circle center-block col-md-3 col-md-offset-1">
+                <p class="text-muted text-justify col-md-7">Chaque campus Arts et Métiers a une identité particulière, liée aux entreprises alentours et aux domaines d’expertise. Le campus de Bordeaux est tourné vers l’aéronautique. Installé au cœur de l’Aerospace Valley, il tire ses racines des entreprises du secteur présentent dans la région.</p>
+                <p class="text-muted text-justify col-md-7">Grâce au réseau des anciens élèves, le lien avec l’industrie locale est très fort. Il se traduit par des visites d’entreprises, des journées de conférences sur le domaine, des ateliers de rencontres. Les professeurs sont également très imprégnés par cette culture, de nombreux cours basent leurs exemples sur l’aéronautique.</p>
             </div>
         </div>
     </section>

@@ -78,10 +78,13 @@
 
     <section id="section_associations">
         <div class="container">
-            <div class="row">
+            <div class="col-xs-12 text-muted text-justify">
                 <h2 class="text-uppercase text-couleur">A Propos de l'association des élèves</h2>
-                <p class="text-muted text-justify col-xs-12">L’association des Elèves (AE) des Arts et Métiers (équivalent du BDE) rassemble tous les étudiants du campus de Bordeaux-Talence. Le bureau est composé de 6 étudiants (président, vice-président, trésorier, responsable partenariat, responsable communication et responsable vie étudiante). La vocation de l’association est d’organiser et de gérer les relations entre les diverses entités de la communauté, et de favoriser le développement de la vie associative du campus. La majorité des associations présentées ci-dessus (hormis AMJE et BTK) sont pilotés par l’AE. Le rôle du bureau est de leur offrir les meilleures conditions pour s’épanouir : financement, locaux, assurance… L’AE est là pour conseiller les élèves ingénieurs qui souhaitent monter un projet culturel, sportif, ou festif et leur permettre de profiter au maximum de ces années aux Arts et Métiers. Cette dynamique associative permet à l’école de rayonner.</p>
-                <p class="text-muted text-center col-xs-12">La devise de l’AE : favoriser, promouvoir et développer la vie associative aux Arts et Métiers</p>
+                <p class="text-center">Favoriser, Promouvoir et Développer la vie associative aux Arts et Métiers</p>
+                <p>La quasi-totalité des associations présentées ci-dessus est gérée par l’AE ENSAM Bordeaux, l’association des élèves. Traditionnellement, tous les élèves ingénieurs présents sur le campus font partie de l’association. Cela leur permet de participer aux évènements, d’adhérer aux différents clubs, de profiter des locaux associatifs.
+                    Le bureau de l’AE donne aux étudiants les moyens de profiter un maximum de leurs années aux Arts et Métiers. Il conseille et aide tous ceux qui souhaitent monter un projet culturel, sportif ou festif. L’AE finance les clubs, leur fournit les locaux... Tu veux te lancer ? N’hésite pas, le cadre associatif des Arts et Métiers est là pour ça !</p>
+                <p><i>« L’ensemble de mon investissement dans les associations m’a permis de me familiariser avec les techniques de management, de communication et de partage des informations. J’ai aussi développé de nombreuses compétences en gestion de projet et appris à gérer le travail d’équipe. Certaines associations permettent aussi d’utiliser des outils non enseignés à l’école, comme les outils de graphisme. Participer aux activités associatives est l’expérience la plus enrichissante de la vie aux Arts. »</i></p>
+                <p><i>« L’investissement personnel aux seins d’associations apporte un plus dans la vie d’étudiant. Et puis, découvrir qu’il y a toutes les infrastructures pour refaire du sport ou de la musique après la prépa donne envie de s’y remettre. La vie associative, c’est aussi l’occasion de partager avec sa promo mais aussi avec les autres promotions de l’école. »</i></p>
             </div>
         </div>
     </section>
