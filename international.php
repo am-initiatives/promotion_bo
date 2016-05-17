@@ -32,7 +32,7 @@
         <div class="container">
             <h2 class="text-uppercase text-couleur">Partir à l'étranger</h2>
             <div class="col-md-12">
-                <p class="text-muted text-justify">Comme toutes les écoles d’ingénieur françaises, les Arts et Métiers t’offrent la possibilité de partir à l’étranger. Un séjour de 8 semaines à l’étranger est obligatoire pour valider ton cursus.</p>
+                <p class="text-muted text-justify">Les Arts et Métiers t’offrent la possibilité de partir à l’étranger. Un séjour de 8 semaines à l’étranger est obligatoire pour valider ton cursus.</p>
                 <p class="text-muted text-justify">Tu pourras réaliser une partie de tes études à l’international. De nombreux partenariats existent, un peu partout dans le monde. Mais attention, les places sont chères, il te faudra de bons résultats pour prétendre à l’un de ces parcours. Différents types de mobilité existent, allant du séjour bi-diplômant (de 2 à 4 semestres) au semestre d’échange.</p>
             </div>
         </div>
