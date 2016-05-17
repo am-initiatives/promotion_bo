@@ -175,6 +175,26 @@ section#section_jours img{
 section#section_jours .row div{
     padding: 0;
 }
+section#section_temoignages img{
+    margin-top: 15px;
+}
+section#section_temoignages .temoignage{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    box-shadow: 0 0 10px #aaaaaa;
+}
+section#section_temoignages .temoignage .titre{
+    min-height: 150px;
+}
+section#section_temoignages .temoignage .contenu{
+    margin-bottom: 20px;
+}
+@media (min-width: 992px) {
+    section#section_temoignages .temoignage .contenu{
+        min-height: 400px;
+    }
+}
+
 footer{
     padding-bottom: 50px;
 }
