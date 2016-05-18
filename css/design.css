@@ -196,8 +196,7 @@ section#section_jours .row div{
     }
     section#section_jours h2{
         margin: 0;
-        padding-top: 0;
-        padding-bottom: 0;
+        padding: 0;
     }
 }
 section#section_temoignages img{
@@ -213,10 +212,13 @@ section#section_temoignages .temoignage .titre{
 }
 section#section_temoignages .temoignage .contenu{
     margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 @media (min-width: 992px) {
     section#section_temoignages .temoignage .contenu{
-        min-height: 400px;
+        min-height: 350px;
     }
 }
 footer{
