@@ -39,8 +39,8 @@
             <div class="col-xs-12">
                 <div class="col-md-5 temoignage">
                     <div class="row titre">
-                        <img src="" class="col-xs-3 img-circle">
-                        <div class="col-xs-9 text-center">
+                        <img src="img/temoignages/vincent.jpg" class="col-xs-4 img-circle">
+                        <div class="col-xs-8 text-center">
                             <h2>Vincent</h2>
                             <p><b>Elève ingénieur 1ère année</b><br>
                             Issu de classe préparatoire</p>
@@ -59,8 +59,8 @@
                 <div class="col-md-2 centre"><p></p></div>
                 <div class="col-md-5 temoignage">
                     <div class="row titre">
-                        <img src="" class="col-xs-3 img-circle">
-                        <div class="col-xs-9 text-center">
+                        <img src="img/temoignages/xavier.jpg" class="col-xs-4 img-circle">
+                        <div class="col-xs-8 text-center">
                             <h2>Xavier</h2>
                             <p><b>Elève ingénieur 3ème année</b><br>
                                 Actuellement en double-diplôme avec l'Universidad El Bosque - Colombie</p>
@@ -79,8 +79,8 @@
             <div class="col-xs-12">
                 <div class="col-md-5 temoignage">
                     <div class="row titre">
-                        <img src="" class="col-xs-3 img-circle">
-                        <div class="col-xs-9 text-center">
+                        <img src="img/temoignages/jules.jpg" class="col-xs-4 img-circle">
+                        <div class="col-xs-8 text-center">
                             <h2>Jules</h2>
                             <p><b>Elève ingénieur 3ème année</b><br>
                                 Actuellement à l'Imperial College de Londres</p>
@@ -98,8 +98,8 @@
                 <div class="col-md-2 centre"><p></p></div>
                 <div class="col-md-5 temoignage">
                     <div class="row titre">
-                        <img src="" class="col-xs-3 img-circle">
-                        <div class="col-xs-9 text-center">
+                        <img src="img/temoignages/clement.jpg" class="col-xs-4 img-circle">
+                        <div class="col-xs-8 text-center">
                             <h2>Clément</h2>
                             <p><b>Elève ingénieur 2ème année</b><br>
                                 Issu du double-diplôme ESTP</p>
@@ -118,8 +118,8 @@
             <div class="col-xs-12">
                 <div class="col-md-5 temoignage">
                     <div class="row titre">
-                        <img src="" class="col-xs-3 img-circle">
-                        <div class="col-xs-9 text-center">
+                        <img src="img/temoignages/milene.jpg" class="col-xs-4 img-circle">
+                        <div class="col-xs-8 text-center">
                             <h2>Milène</h2>
                             <p><b>Elève ingénieur 2ème année</b><br></p>
                         </div>
@@ -137,8 +137,8 @@
                 <div class="col-md-2 centre"><p></p></div>
                 <div class="col-md-5 temoignage">
                     <div class="row titre">
-                        <img src="" class="col-xs-3 img-circle">
-                        <div class="col-xs-9 text-center">
+                        <img src="img/temoignages/viscrit.jpg" class="col-xs-4 img-circle">
+                        <div class="col-xs-8 text-center">
                             <h2>Xavier</h2>
                             <p><b>Elève ingénieur 3ème année</b><br>
                                 Actuellement en double-diplôme avec l'Universidad El Bosque - Colombie</p>
