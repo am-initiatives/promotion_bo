@@ -219,6 +219,14 @@ footer a img{
     border-radius: 5px;
     margin-bottom: 20px;
 }
+footer #plan_site {
+    text-align: center;
+}
+@media (min-width: 992px) {
+    footer #plan_site {
+        text-align: right;
+    }
+}
 
 /* Design général */
 

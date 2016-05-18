@@ -38,7 +38,7 @@
             <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.arts-et-metiers.asso.fr/"><img src="img/footer/soce.jpg"></a>
             <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.ensam.eu/"><img src="img/footer/ensam.jpg"></a>
         </div>
-        <div id="plan_site" class="col-md-3 col-xs-12 text-right">
+        <div id="plan_site" class="col-md-3 col-xs-12">
             <h4>Plan du site</h4>
             <h5 class="text-uppercase text-rouge">Logement</h5>
                 <a href="logement.php" class="text-muted">Résidences</a><br>
