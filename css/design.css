@@ -124,6 +124,17 @@ section#section_evenements .row{
     margin-bottom: 20px;
     box-shadow: 0 0 10px #aaaaaa;
 }
+section#section_evenements a{
+    padding: 0 10px;
+    text-decoration: none;
+    color: white;
+}
+section#section_evenements a:hover{
+    color: #3cd09e;
+}
+section#section_evenements a.lien_site{
+    font-size: 40px;
+}
 section#section_evenements img{
     padding: 0;
 }
@@ -220,6 +231,11 @@ section#section_temoignages .temoignage .contenu{
     section#section_temoignages .temoignage .contenu{
         min-height: 350px;
     }
+}
+section#section_contexte .contenu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 footer{
     padding-bottom: 50px;

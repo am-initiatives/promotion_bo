@@ -37,7 +37,12 @@
                         <h2 class="text-right text-uppercase">Grand Gala</h2>
                         <p>Tu veux organiser le plus Grand Gala d’Aquitaine, qui accueille chaque année des DJs de tous horizons musicaux ? Faire rêver 4000 personnes, avec des spectacles et des groupes étudiants ?</p>
                         <p>Que tu aimes organiser, décorer ou être barman, tous les élèves ingénieurs participent à l’élaboration de la soirée.  Alors rejoins nous dans cette aventure, et participe à l’une des meilleures nuits bordelaises !</p>
-                        <p>Pour en savoir plus : <a href="http://ggbo.gadz.org">http://ggbo.gadz.org</a></p>
+                        <p>Pour en savoir plus :</p>
+                        <div class="text-center">
+                            <a href="https://www.facebook.com/fignos.bordeaux/?fref=ts" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
+                            <a href="https://twitter.com/LaNuitdesFignos" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
+                            <a href="http://ggbo.gadz.org" target="_blank" class="lien_site">SITE</a>
+                        </div>
                     </div>
                     <div class="col-xs-12 text-center temoignages">
                         <p><i>« Le gala, c’est la fierté de voir sa famille bouche bée devant la beauté de nos réalisations. Une fierté sans pareille. »</i></p>
@@ -51,6 +56,9 @@
                         <p>Que serait la vie aux Arts et Métiers sans ses célèbres Soirées VE ? Le principe est simple : tu invites tes amis, tu viens et tu t’amuses !</p>
                         <p>La Vie Étudiante des Arts et Métiers est le pôle évènementiel de l’école. Il se charge de te transmettre les bons plans de sorties en ville ou dans les écoles voisines ; mais surtout d’organiser et d’animer des soirées et apéros toute l’année.</p>
                         <p>Que ce soit pour la Saint Patrick ou à Noël, la VE ne manque jamais une occasion de rassembler le tissu étudiant local pour faire la fête avec les DJ du campus. Alors, tu viens quand ?</p>
+                        <div class="text-center">
+                            <a href="https://www.facebook.com/Vie-%C3%89tudiante-Arts-M%C3%A9tiers-1277861792227327/" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
+                        </div>
                     </div>
                     <div class="col-xs-12 text-center temoignages">
                         <p><i>« Les soirées VE, ce sont toujours des soirées hautes en couleurs. Participer à leur préparation est toujours un bon moment pour moi. Et la soirée est encore meilleure ensuite ! C’est l’occasion de retrouver les étudiants du campus, et toutes les écoles ne le font pas. »</i></p>
