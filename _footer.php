@@ -3,8 +3,7 @@
         <div class="col-md-3 col-xs-12">
             <h4>Le mot des créateurs</h4>
             <p class="text-muted text-justify">L'idée de ce site est née d'une envie de transparence totale vis-à-vis des étudiants et de leur cercle proche.
-                Ici, on explique ce que l'on fait tous les jours, pourquoi on le fait, et comment on s'y prend. Rien de plus!
-                Et c'est déjà bien assez, n'est ce pas?</p>
+                Ici, on explique ce que l'on fait tous les jours, pourquoi on le fait, et comment on s'y prend.</p>
             <h4>Qui Sommes-nous ?</h4>
             <p class="text-muted text-justify">Une équipe soudée et créative de Cinq élèves ingénieurs du Campus des Arts et Métiers de Bordeaux, aux talents variés.
                 La diversité de nos compétences nous a permis de développer ce site, tous animés par l'envie de partager et d'informer en toute simplicité.</p>
@@ -31,12 +30,12 @@
             </form>
             <h4>Liens utiles</h4>
             <div class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2">
-                <a class="col-xs-6" href="https://twitter.com/AM_ParisTech"><i class="fa fa-3x fa-twitter"></i></a>
-                <a class="col-xs-6" href="https://www.facebook.com/AMParisTech/?fref=ts&rf=111762148842866"><i class="fa fa-3x fa-facebook"></i></a>
+                <a class="col-xs-6" href="https://twitter.com/AM_ParisTech" target="_blank"><i class="fa fa-3x fa-twitter"></i></a>
+                <a class="col-xs-6" href="https://www.facebook.com/AMParisTech/?fref=ts&rf=111762148842866" target="_blank"><i class="fa fa-3x fa-facebook"></i></a>
             </div>
-            <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.ueensam.org/"><img src="img/footer/ue.jpg"></a>
-            <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.arts-et-metiers.asso.fr/"><img src="img/footer/soce.jpg"></a>
-            <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.ensam.eu/"><img src="img/footer/ensam.jpg"></a>
+            <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.ueensam.org/" target="_blank"><img src="img/footer/ue.jpg"></a>
+            <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.arts-et-metiers.asso.fr/" target="_blank"><img src="img/footer/soce.jpg"></a>
+            <a class="col-sm-3 col-md-offset-0 col-xs-8 col-xs-offset-2" href="http://www.ensam.eu/" target="_blank"><img src="img/footer/ensam.jpg"></a>
         </div>
         <div id="plan_site" class="col-md-3 col-xs-12">
             <h4>Plan du site</h4>

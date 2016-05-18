@@ -127,6 +127,16 @@ section#section_evenements .row{
 section#section_evenements img{
     padding: 0;
 }
+section#section_evenements .temoignages{
+    padding: 20px;
+}
+section#section_evenements div.bg_sombre .temoignages{
+    background-color: #5d5d5d;
+    color: white;
+}
+section#section_evenements div.bg_blanc .temoignages{
+    background-color: #f0f0f0;
+}
 section#section_cursus #suitePratique, section#section_cursus #suiteMatieres, section#section_cursus #suiteViePro, section#section_cursus #suiteDiplome{
     display: none;
 }
@@ -194,7 +204,6 @@ section#section_temoignages .temoignage .contenu{
         min-height: 400px;
     }
 }
-
 footer{
     padding-bottom: 50px;
 }
@@ -218,6 +227,10 @@ footer a img{
     width: 100%;
     border-radius: 5px;
     margin-bottom: 20px;
+}
+footer a:hover{
+    text-decoration: none;
+    color: white;
 }
 footer #plan_site {
     text-align: center;
