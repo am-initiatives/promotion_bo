@@ -32,8 +32,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-8 col-xs-offset-2">
-                    <h1 class="text-uppercase text-couleur text-center">Arts &amp Vins</h1>
-                    <p class="text-muted text-center">Association d'oenologie</p>
+                    <h1 class="text-uppercase text-couleur text-center">OENOLOGIE</h1>
+                    <p class="text-muted text-center">Arts et Vins</p>
                 </div>
                 <div class="col-xs-2 text-right">
                     <a href="associations.php"><i class="fa fa-3x fa-times" style="color:grey;"></i></a>
@@ -42,7 +42,8 @@
             <div class="row">
                 <img src="img/associations/illustrations/artsetvins.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
-                    <p class="text-justify">Amateur de bon vin ou simple curieux néophyte, rejoins Arts et Vins, l’association d’œnologie de l’école. Entre visites de châteaux et soirées de dégustations, tu apprendras à savourer les vins de Bordeaux mais aussi du monde entier. Alliant découvertes et bonne humeur, Arts et Vins saura te faire partager et apprécier le patrimoine régional viticole et ses multiples facettes, allant du Sauternes au Bordeaux Supérieur.</p>
+                    <p class="text-justify">Amateur de bon vin ou simple curieux néophyte, rejoins Arts et Vins, l’association d’œnologie de l’école. Entre visites de châteaux et soirées de dégustations, tu apprendras à savourer les vins de Bordeaux mais aussi du monde entier.</p>
+                    <p class="text-justify">Alliant découvertes et bonne humeur, Arts et Vins saura te faire partager et apprécier le patrimoine régional viticole et ses multiples facettes, allant du Sauternes au Bordeaux Supérieur.</p>
                 </div>
             </div>
         </div>

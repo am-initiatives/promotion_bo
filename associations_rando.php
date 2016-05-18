@@ -32,8 +32,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-8 col-xs-offset-2">
-                    <h1 class="text-uppercase text-couleur text-center">Randonnée</h1>
-                    <p class="text-muted text-center">Association sportive</p>
+                    <h1 class="text-uppercase text-couleur text-center">ESCAPADE SPORTIVE</h1>
+                    <p class="text-muted text-center">Club randonnée</p>
                 </div>
                 <div class="col-xs-2 text-right">
                     <a href="associations.php"><i class="fa fa-3x fa-times" style="color:grey;"></i></a>
