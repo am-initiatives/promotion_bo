@@ -2,11 +2,9 @@
     <div class="container">
         <div class="col-md-3 col-xs-12">
             <h4>Le mot des créateurs</h4>
-            <p class="text-muted text-justify">L'idée de ce site est née d'une envie de transparence totale vis-à-vis des étudiants et de leur cercle proche.
-                Ici, on explique ce que l'on fait tous les jours, pourquoi on le fait, et comment on s'y prend.</p>
+            <p class="text-muted text-justify">L'idée de ce site est née d'une envie : informer en toute transparence les étudiants et leur cercle proche. Ici, on explique ce que l'on fait tous les jours, pourquoi on le fait, et comment on s'y prend.</p>
             <h4>Qui Sommes-nous ?</h4>
-            <p class="text-muted text-justify">Une équipe soudée et créative de Cinq élèves ingénieurs du Campus des Arts et Métiers de Bordeaux, aux talents variés.
-                La diversité de nos compétences nous a permis de développer ce site, tous animés par l'envie de partager et d'informer en toute simplicité.</p>
+            <p class="text-muted text-justify">Une équipe soudée et créative de cinq élèves ingénieurs du Campus des Arts et Métiers de Bordeaux, aux talents variés. La diversité de nos compétences nous a permis de développer ce site, tous animés par l'envie de partager et d'informer en toute simplicité.</p>
             <!--<a class="text-muted">En savoir plus</a>-->
         </div>
         <div class="col-md-6 col-xs-12 text-center">
