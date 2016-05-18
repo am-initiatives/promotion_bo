@@ -36,7 +36,7 @@
                     <div class="col-md-6 col-xs-12">
                         <h2 class="text-right text-uppercase">Grand Gala</h2>
                         <p>Tu veux organiser le plus Grand Gala d’Aquitaine, qui accueille chaque année des DJs de tous horizons musicaux ? Faire rêver 4000 personnes, avec des spectacles et des groupes étudiants ?</p>
-                        <p>Que tu aimes organiser, décorer ou être barman, tous les élèves ingénieurs participent à l’élaboration de la soirée.  Alors rejoins nous dans cette aventure, et participer à l’une des meilleures nuits bordelaises !</p>
+                        <p>Que tu aimes organiser, décorer ou être barman, tous les élèves ingénieurs participent à l’élaboration de la soirée.  Alors rejoins nous dans cette aventure, et participe à l’une des meilleures nuits bordelaises !</p>
                         <p>Pour en savoir plus : <a href="http://ggbo.gadz.org">http://ggbo.gadz.org</a></p>
                     </div>
                     <div class="col-xs-12 text-center temoignages">
@@ -61,8 +61,8 @@
                     <img src="img/evenements/uai.jpg" class="col-md-6 col-xs-12">
                     <div class="col-md-6 col-xs-12">
                         <h2 class="text-right text-uppercase">Grandes UAI</h2>
-                        <p>Tu rêves des jeux olympiques ? Les Arts et Métiers t’offrent encore plus : les Grandes UAI ! Cet évènement est l’un des plus grands rassemblements sportifs étudiants de France, avec plus de 1000 étudiants réunis durant 4jours !</p>
-                        <p>Au programme pour les sportifs, tous types de sport, du rugby à la pétanque en passant par les sports à raquette, la natation, l’athlétisme et l’inimitable concours de pompom girls !</p>
+                        <p>Tu rêves des jeux olympiques ? Les Arts et Métiers t’offrent encore plus : les Grandes UAI ! Cet évènement est l’un des plus grands rassemblements sportifs étudiants de France, avec plus de 1000 étudiants réunis durant 4 jours !</p>
+                        <p>Au programme pour les sportifs, tous types de sports, du rugby à la pétanque en passant par les sports à raquette, la natation, l’athlétisme et l’inimitable concours de pompom girls !</p>
                         <p>Tu n’es pas sportif ? Viens encourager les équipes de ton campus et participer aux animations du week-end : babyfoot humains, concerts, soirées, concours en tout genre. Retrouve les Gadzarts de toute la France pour te plonger dans une ambiance hors du commun !</p>
                     </div>
                     <div class="col-xs-12 text-center temoignages">
@@ -75,11 +75,11 @@
                     <div class="col-md-6 col-xs-12">
                         <h2 class="text-right text-uppercase">SKZ</h2>
                         <p>Ski’O’Zarts, c’est une semaine de ski et de fête pour tous ! Plus de 1200 étudiants se retrouvent dans une station des Alpes durant une semaine à un prix défiant toute concurrence !</p>
-                        <p>Que tu sois débutant ou expérimenté et avide de sensations, les responsables s’occupent de tout pour te permettre de profiter un maximum : compétitions pour les meilleurs, cours d’initiations pour ceux qui le souhaitent. Après une descente aux flambeaux, les bars de la station t’attendent pour des soirées spéciales pleines de surprises !</p>
+                        <p>Que tu sois débutant ou expérimenté et avide de sensations, les responsables s’occupent de tout pour te permettre de profiter un maximum: compétitions pour les meilleurs, cours d’initiations pour ceux qui le souhaitent. Après une descente aux flambeaux, les bars de la station t’attendent pour des soirées spéciales pleines de surprises !</p>
                     </div>
                     <div class="col-xs-12 text-center temoignages">
                         <p><i>« Idéal pour ceux qui veulent découvrir le ski pour un budget TRES réduit ! Sans doute l’une des meilleures semaines de ma vie ! »</i></p>
-                        <p><i>« SKZ, c’est un peu comme un SprinkBreak ! Il y en a pour tout le monde, les animations organisées chaque jour permettent à ceux qui ne skient pas de se faire plaisir. L’ambiance est incroyable sur les pistes et en dehors ! »</i></p>
+                        <p><i>« SKZ, c’est un peu comme un SpringBreak ! Il y en a pour tout le monde, les animations organisées chaque jour permettent à ceux qui ne skient pas de se faire plaisir. L’ambiance est incroyable sur les pistes et en dehors ! »</i></p>
                     </div>
                 </div>
                 <div class="row bg_blanc text-muted text-justify">

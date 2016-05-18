@@ -58,30 +58,30 @@
 
     <section id="section_jours" class="bg_orange text-muted">
         <div class="container">
-            <div id="lundi" class="row bg_blanc text-muted">
-                <div class="bg_beige col-md-7 col-xs-12">
+            <div id="lundi" class="row bg_blanc text-muted flex">
+                <div class="bg_beige col-md-7 col-xs-12 flex">
                     <h2 class="text-couleur text-center text-uppercase col-xs-12 visible-xs visible-sm">Lundi</h2>
                     <img src="img/bordeaux/shopping.jpg" class="col-md-10 col-xs-12">
-                    <h2 class="text-couleur text-center text-uppercase col-md-2 hidden-xs hidden-sm">L<br>u<br>n<br>d<br>i</h2>
+                    <h2 class="text-couleur text-center text-uppercase col-md-2 hidden-xs hidden-sm centre">L<br>u<br>n<br>d<br>i</h2>
                 </div>
-                <div class="col-md-5 col-xs-12 text-justify">
+                <div class="col-md-5 col-xs-12 text-justify centre">
                     <h3 class="text-center">Shopping dans les rues bordelaises</h3>
-                    <p>Un après-midi ensoleillé et des envies de shopping ? File en centre-ville, et balade-toi sur la rue commerçante la plus longue d’Europe, la rue St. Catherine. Elle regroupe les plus grandes enseignes de prêt-à-porter et de beauté.<br>
-                        Dans les ruelles alentours, tu trouveras des boutiques de créateurs et de designer, des concepts stores et de nombreux cafés.<br>
-                        Tu veux finir la journée devant un film ? Il y a de nombreux cinémas un peu partout en ville. Que tu sois adepte des standards hollywoodiens ou des films d’auteurs, tu trouveras ton bonheur à Bordeaux.<br>
-                        Un centre-ville parfait pour flâner et se détendre après les cours.</p>
+                    <p>Un après-midi ensoleillé et des envies de shopping ? File en centre-ville, et balade-toi sur la rue commerçante la plus longue d’Europe, la rue St. Catherine. Elle regroupe les plus grandes enseignes de prêt-à-porter et de beauté.</p>
+                    <p>Dans les ruelles alentours, tu trouveras des boutiques de créateurs et de designer, des concepts stores et de nombreux cafés.</p>
+                    <p>Tu veux finir la journée devant un film ? Il y a de nombreux cinémas un peu partout en ville. Que tu sois adepte des standards hollywoodiens ou des films d’auteurs, tu trouveras ton bonheur à Bordeaux.</p>
+                    <p>Un centre-ville parfait pour flâner et se détendre après les cours.</p>
                 </div>
             </div>
-            <div id="mardi" class="row bg_blanc text-muted">
+            <div id="mardi" class="row bg_blanc text-muted flex">
                 <h2 class="text-couleur text-center text-uppercase bg_beige col-xs-12 visible-xs visible-sm">Mardi</h2>
-                <div class="col-md-5 col-xs-12 text-justify">
+                <div class="col-md-5 col-xs-12 text-justify centre">
                     <h3 class="text-center">S’instruire ou se divertir, à toi de voir !</h3>
                     <p>La culture t’a manqué en prépa ? Tu veux rattraper ton retard ? Bordeaux est une ville pour toi, et elle n’a pas à rougir face à ses concurrentes !<br>
-                        Bordeaux compte une quinzaine de salle de concerts et de théâtre de tous horizons : du classique au rock en passant par l’électro, de l’opéra aux comédies de café-théâtre, il y en a pour tous les gouts. De nombreux lieux d’exposition et une dizaine de musées confirment la dominante culturelle de la ville.<br>
+                        Bordeaux compte une quinzaine de salle de concerts et de théâtre de tous horizons : du classique au rock en passant par l’électro, de l’opéra aux comédies de café-théâtre, il y en a pour tous les goûts. De nombreux lieux d’exposition et une dizaine de musées confirment la dominante culturelle de la ville.<br>
                         Bordeaux possède aussi de très beaux monuments et un ensemble architectural inscrit au patrimoine mondial de l’UNESCO, hérité de la période des Lumières. Alors que tu sois accro à la musique ou que tu aimes te cultiver dans des lieux emplis d’histoire, Bordeaux est faite pour toi !</p>
                 </div>
-                <div class="bg_beige col-md-7 col-xs-12">
-                    <h2 class="text-couleur text-center text-uppercase col-md-2 hidden-xs hidden-sm">M<br>a<br>r<br>d<br>i</h2>
+                <div class="bg_beige col-md-7 col-xs-12 flex">
+                    <h2 class="text-couleur text-center text-uppercase col-md-2 hidden-xs hidden-sm centre">M<br>a<br>r<br>d<br>i</h2>
                     <img src="img/bordeaux/culture.jpg" class="col-md-10 col-xs-12">
                 </div>
             </div>

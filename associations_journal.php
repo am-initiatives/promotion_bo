@@ -43,7 +43,7 @@
                 <img src="img/associations/illustrations/journal.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6 text-justify">
                     <p>Distribué chaque semaine, le journal de l’Ecole permet aux étudiants de laisser parler le reporter qui est en eux. Liberté d’expression, voilà le maitre mot de cet hebdomadaire, qui garde toujours sa tonalité humoristique quels que soient les évènements.</p>
-                    <p>Le journal contient toutes les actualités de la vie associative du campus, les comptes rendus de réunion de l’association des élèves mais aussi des billets drôles, critiques ou informatifs. Que tu sois rédacteur occasionnel ou fervent journaliste, le « Thuiss » saura t’accueillir au sein de ses pages, et aura besoin de toi pour être imprimé et distribué sur le campus !</p>
+                    <p>Le journal contient toutes les actualités de la vie associative du campus, les comptes rendus de réunion de l’association des élèves mais aussi des billets drôles, critiques ou informatifs. Que tu sois rédacteur occasionnel ou fervent journaliste, le « Tuiss » saura t’accueillir au sein de ses pages, et aura besoin de toi pour être imprimé et distribué sur le campus !</p>
                 </div>
             </div>
         </div>

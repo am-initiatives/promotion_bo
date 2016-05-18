@@ -44,16 +44,16 @@
                 <div class="col-md-6 text-justify">
                     <p>AMJE Bordeaux est une Junior-Entreprise gérée par les élèves ingénieurs. Travaillant en collaboration avec des particuliers et des professionnels depuis plus de 30 ans, AMJE permet à tous les étudiants de commencer à rentrer dans le monde de l’entreprise.</p>
                     <p>Tu souhaites acquérir des compétences professionnelles et te former hors du cursus scolaire classique ? Alors rejoins l’équipe, forme toi à des métiers concrets de l’entreprise et lance-toi dans un projet professionnel ! Que tu sois attiré par le BTP, les nouvelles technologies ou que tu souhaites réaliser un projet innovant et original, participer à AMJE sera un atout dans ta formation.</p>
-                    <p class="text-center">Pour tout renseignements : <a href="http://www.amje-bordeaux.fr">www.amje-bordeaux.fr</a></p>
+                    <p class="text-center">Pour tout renseignements : <a href="http://www.amje-bordeaux.fr" target="_blank">www.amje-bordeaux.fr</a></p>
                 </div>
             </div>
             <div class="row justify">
                 <div class="col-md-6">
-                    <i>« J’ai toujours souhaité orienter ma carrière d’ingénieur vers le business. J’ai choisi en rentrant aux Arts de m’investir dans l’association qui apporte le plus de professionnalisme. Je souhaiter acquérir de l’expérience sur l’entreprise et donner une cohérence à mon parcours. AMJE apporte beaucoup de compétences parallèles à celles apportées par les cours. Les projets permettent de mettre en pratique concrètement certains aspects théoriques des cours. » </i>
+                    <i>« J’ai toujours souhaité orienter ma carrière d’ingénieur vers le business. J’ai choisi en rentrant aux Arts de m’investir dans l’association qui apporte le plus de professionnalisme. Je souhaite acquérir de l’expérience sur l’entreprise et donner une cohérence à mon parcours. AMJE apporte beaucoup de compétences parallèles à celles apportées par les cours. Les projets permettent de mettre en pratique concrètement certains aspects théoriques des cours. » </i>
                     <p class="text-center">Olivier, élève de première année</p>
                 </div>
                 <div class="col-md-6">
-                    <i>« Intégrer une Junior-Entreprise est une expérience très enrichissante, qui permet à chacun d’évoluer dans un cadre dynamique, de rencontrer des professionnels, tout en étant profitant d’un dense réseau de Junior-Entrepreneurs. C’est une aventure unique qui permet de saisir un grand nombre d’opportunités, comme participer régulièrement à des congrès regroupant les Junior-Entrepreneurs de toute la France. »</i>
+                    <i>« Intégrer une Junior-Entreprise est une expérience très enrichissante, qui permet à chacun d’évoluer dans un cadre dynamique, de rencontrer des professionnels, tout en profitant d’un dense réseau de Junior-Entrepreneurs. C’est une aventure unique qui permet de saisir un grand nombre d’opportunités, comme participer régulièrement à des congrès regroupant les Junior-Entrepreneurs de toute la France. »</i>
                     <p class="text-center">Vincent, élève de première année</p>
                 </div>
             </div>

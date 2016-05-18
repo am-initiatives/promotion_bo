@@ -42,7 +42,7 @@
             <div class="row">
                 <img src="img/associations/illustrations/rando.jpg" class="col-md-6 col-xs-12">
                 <div class="col-md-6">
-                    <p class="text-justify">Tu aimes les grands espaces, les soirées autour d’un feu, les nuits à la belle étoile ? L’association de randonnées de l’école organise chaque année plusieurs sorties qui raviront ta soif d’évasion. Que ce soit pour des balades près de Bordeaux ou pour des treks dans les Pyrénées, enfile tes chaussures et suis-nous ! La convivialité et l’esprit chaleureux sont les maitres mots du club, alors qu’attends-tu ? </p>
+                    <p class="text-justify">Tu aimes les grands espaces, les soirées autour d’un feu, les nuits à la belle étoile ? L’association de randonnée de l’école organise chaque année plusieurs sorties qui raviront ta soif d’évasion. Que ce soit pour des balades près de Bordeaux ou pour des treks dans les Pyrénées, enfile tes chaussures et suis-nous ! La convivialité et l’esprit chaleureux sont les maitres mots du club, alors qu’attends-tu ? </p>
                 </div>
             </div>
         </div>

@@ -46,7 +46,7 @@
                             <span style="font-size:0.6em">montant/mois/personne allocations CAF déduites</span></p>
                     </div>
                     <div class="col-md-10 col-sm-10">
-                        <p class="text-justify">Le loyer pour l'année scolaire 2015-2016 s'élève à 362.55€, charges comprises. Tous les locataires sont éligibles à l'allocation logement social (ALS), d'un montant minimum de 92€.</p>
+                        <p class="text-justify">Le loyer pour l'année scolaire 2015-2016 s'élève à 362.55€ par personne, charges comprises. Tous les locataires sont éligibles à l'allocation logement social (ALS), d'un montant minimum de 92€.</p>
                     </div>
                 </div>
                 <div class="row">

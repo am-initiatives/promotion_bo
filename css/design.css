@@ -175,7 +175,6 @@ section#section_jours h2{
     padding-bottom: 10px;
 }
 section#section_jours p{
-    padding-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -184,6 +183,22 @@ section#section_jours img{
 }
 section#section_jours .row div{
     padding: 0;
+}
+@media (min-width: 992px) {
+    section#section_jours .flex {
+        display: flex;
+    }
+    section#section_jours .centre{
+        margin: auto 0;
+    }
+    section#section_jours h3{
+        padding-top: 0;
+    }
+    section#section_jours h2{
+        margin: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
 }
 section#section_temoignages img{
     margin-top: 15px;

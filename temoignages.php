@@ -49,9 +49,9 @@
                     <div class="row">
                         <i class="fa fa-quote-left fa-3x text-couleur col-xs-2"></i>
                         <div class="col-xs-10 text-justify contenu">
-                            <p>Les premiers mois de cours sont un peu troublant. J’ai mis du temps à comprendre ce que les profs attendaient de nous. Mais ensuite on s’adapte au fonctionnement.<br><br>
+                            <p>Les premiers mois de cours sont un peu troublants. J’ai mis du temps à comprendre ce que les profs attendaient de nous. Mais ensuite on s’adapte au fonctionnement.<br><br>
                                 J’aime beaucoup le format de cours TP/TD : l’interaction avec les profs est plus facile, c’est grâce à ces cours que l’on apprend. En plus, les TP en atelier sont ludiques et vraiment différents de ce qu’on a pu faire en prépa.<br><br>
-                                Les projets sont aussi très enrichissant, ils permettent de s’impliquer personnellement et de développer le travail d’équipe. C’est dans les projets que l’on découvre vraiment le travail d’ingénieur, mêlant rigueur du cahier des charges et créativité de la conception.
+                                Les projets sont aussi très enrichissants, ils permettent de s’impliquer personnellement et de développer le travail d’équipe. C’est dans les projets que l’on découvre vraiment le travail d’ingénieur, mêlant rigueur du cahier des charges et créativité de la conception.
                             </p>
                         </div>
                     </div>
