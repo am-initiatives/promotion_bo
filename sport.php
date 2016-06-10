@@ -18,7 +18,7 @@
                         <a href="associations.php">Associations</a>
                     </li>
                     <li class="col-md-2 col-sm-4">
-                        <a href="#associations" class="active">Sport</a>
+                        <a href="#associations" class="active">Sports</a>
                     </li>
                     <li class="col-md-2 col-sm-4">
                         <a href="evenements.php">Evenements</a>

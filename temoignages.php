@@ -137,19 +137,16 @@
                 <div class="col-md-2 centre"><p></p></div>
                 <div class="col-md-5 temoignage">
                     <div class="row titre">
-                        <img src="img/temoignages/viscrit.jpg" class="col-xs-4 img-circle">
+                        <img class="col-xs-4 img-circle">
                         <div class="col-xs-8 text-center">
-                            <h2>Xavier</h2>
-                            <p><b>Elève ingénieur 3ème année</b><br>
-                                Actuellement en double-diplôme avec l'Universidad El Bosque - Colombie</p>
+                            <h2></h2>
+                            <p><b></b><br></p>
                         </div>
                     </div>
                     <div class="row">
                         <i class="fa fa-quote-left fa-3x text-couleur col-xs-2"></i>
                         <div class="col-xs-10 text-justify contenu">
-                            <p>Aux Arts, il y a tellement de cursus proposés que chacun peut y trouver son compte. J’avais envie de partir loin, j’ai donc profité d’un accord d’échange pour partir en Colombie. C’était l’occasion d’élargir mon horizon et de m’enrichir au contact d’une culture différente.<br><br>
-                                Je ne regrette pas mon départ, j’adore mon parcours et l’endroit où je vis ! Mon cursus m’offre la possibilité de réaliser un stage de 6 mois en entreprise, ce qui est un atout dans le CV. Les stages sont l’opportunité de découvrir le monde du travail dans son ensemble.
-                            </p>
+                            <p></p>
                         </div>
                     </div>
                 </div>

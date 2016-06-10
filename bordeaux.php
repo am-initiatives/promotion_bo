@@ -88,7 +88,7 @@
             <div id="mercredi" class="row bg_blanc text-muted flex">
                 <div class="bg_beige col-md-7 col-xs-12  flex">
                     <h2 class="text-couleur text-center text-uppercase col-xs-12 visible-xs visible-sm">Mercredi</h2>
-                    <img src="img/bordeaux/" class="col-md-10 col-xs-12">
+                    <img src="img/bordeaux/sport.jpg" class="col-md-10 col-xs-12">
                     <h2 class="text-couleur text-center text-uppercase col-md-2 hidden-xs hidden-sm centre">M<br>e<br>r<br>c<br>r<br>e<br>d<br>i</h2>
                 </div>
                 <div class="col-md-5 col-xs-12 centre">
@@ -115,7 +115,7 @@
             <div id="vendredi" class="row bg_blanc text-muted flex">
                 <div class="bg_beige col-md-7 col-xs-12 flex">
                     <h2 class="text-couleur text-center text-uppercase col-xs-12 visible-xs visible-sm">Vendredi</h2>
-                    <img src="img/bordeaux/" class="col-md-10 col-xs-12">
+                    <img src="img/bordeaux/soirees.jpg" class="col-md-10 col-xs-12">
                     <h2 class="text-couleur text-center text-uppercase col-md-2 hidden-xs hidden-sm centre">V<br>e<br>n<br>d<br>r<br>e<br>d<br>i</h2>
                 </div>
                 <div class="col-md-5 col-xs-12 text-justify centre">

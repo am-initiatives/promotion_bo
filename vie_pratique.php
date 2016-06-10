@@ -118,8 +118,11 @@
                     </div>
                     <div class="collapse" id="collapseAvion">
                         <h3 class="text-couleur">Avion</h3>
-                        <p>Arret xxx, ligne x<br>
-                            362 Cours Gambetta, 33400 Talence</p>
+                        <p>Depuis la gare Saint-Jean: bus régulier direct<br>
+                            Depuis le centre de Bordeaux: Liane 1+<br>
+                            Destinations: courts et moyens courriers (France et Europe)<br>
+                            Compagnies: EasyJet, Volotea, Air France, British Airways, Hop! ...<br>
+                        </p>
                     </div>
                 </div>
             </div>

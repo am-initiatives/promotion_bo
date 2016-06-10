@@ -52,7 +52,7 @@
             <div class="row col-md-10 col-md-offset-1 infos">
                 <img src="img/cursus/usinage.jpg" class="img-responsive">
                 <h4 class="text-uppercase text-couleur text-center">La pratique mise en avant</h4>
-                <p class="text-muted text-justify">D’autres particularités distinguent chaque campus, notamment en termes d’infrastructure. Bordeaux possède un atelier d’usinage refait à neuf en 2015. Il accueille de nombreuses machines sur une surface de xxx m². Un groupe de techniciens est à la disposition des étudiants pour les aider à réaliser leurs projets. <a href="#nogo" onclick="document.getElementById('suitePratique').style.display = 'block'; this.style.display = 'none';">Lire la suite...</a></p>
+                <p class="text-muted text-justify">D’autres particularités distinguent chaque campus, notamment en termes d’infrastructure. Bordeaux possède un atelier d’usinage refait à neuf en 2015. Il accueille de nombreuses machines sur une surface de 8400 m². Un groupe de techniciens est à la disposition des étudiants pour les aider à réaliser leurs projets. <a href="#nogo" onclick="document.getElementById('suitePratique').style.display = 'block'; this.style.display = 'none';">Lire la suite...</a></p>
                 <p id="suitePratique" class="text-muted text-justify">Les TP sont nombreux dans l’atelier. Tu devras enfiler ton bleu et tes chaussures de sécurité pour pratiquer sur les tours et les fraiseuses de l’atelier, mais aussi sur des machines telles que la découpe jet d’eau ou la plieuse. Tu auras également l’occasion d’utiliser ces machines au cours des nombreux projets qui jalonnent les études.</p>
             </div>
             <div class="row col-md-10 col-md-offset-1 infos">
