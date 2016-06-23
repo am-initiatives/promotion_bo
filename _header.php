@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Site présentant le campus des Arts et Métiers de Bordeaux">
+    <meta name="description" content="Site réalisé par des étudiants présentant le campus des Arts et Métiers de Bordeaux - Talence">
     <meta name="keywords" content="arts, métiers, metiers, gadzart, gadz'art, gadzarts, gadz'arts, bordeaux, talence, ensam bordeaux, ensam talence, ensam, am" >
     <meta name="author" content="Célia PARIS, Astrid FROT, Paul DERIVAUX, Pierre-Marie MOGENET, Baptiste GAUTHIER">
 
