@@ -23,4 +23,5 @@
         <script src="js/respond.min.js"></script>
         <!--[endif]-->
 
+        <?php include_once("analyticstracking.php") ?>
 </head>
