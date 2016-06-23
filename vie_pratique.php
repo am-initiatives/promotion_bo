@@ -87,10 +87,10 @@
             <div class="col-md-6">
                 <div class="row">
                     <div class="col-xs-2 col-xs-offset-1 col-md-offset-2"><img src="img/vie_pratique/velo.png" class="img-circle" data-toggle="collapse" href="#collapseVelo"/></div>
-                    <div class="col-xs-2"><img src="img/vie_pratique/tram.png" class="img-circle" data-toggle="collapse" href="#collapseTram" aria-expanded="true"/></div>
+                    <div class="col-xs-2"><img src="img/vie_pratique/tramway.png" class="img-circle" data-toggle="collapse" href="#collapseTram" aria-expanded="true"/></div>
                     <div class="col-xs-2"><img src="img/vie_pratique/bus.png" class="img-circle" data-toggle="collapse" href="#collapseBus"/></div>
-                    <div class="col-xs-2"><img src="img/vie_pratique/train.png" class="img-circle" data-toggle="collapse" href="#collapseTrain"/></div>
-                    <div class="col-xs-2"><img src="img/vie_pratique/avion.png" class="img-circle" data-toggle="collapse" href="#collapseAvion"/></div>
+                    <div class="col-xs-2"><img src="img/vie_pratique/trains.png" class="img-circle" data-toggle="collapse" href="#collapseTrain"/></div>
+                    <div class="col-xs-2"><img src="img/vie_pratique/avions.png" class="img-circle" data-toggle="collapse" href="#collapseAvion"/></div>
                 </div>
                 <div class="row">
                     <div class="collapse" id="collapseVelo">
@@ -189,7 +189,7 @@
             <img src="img/vie_pratique/illustrations/restaurant.jpg" class="col-md-6 img-responsive center-block">
             <div class="col-md-6">
                 <div class="row">
-                    <div class="col-xs-2 col-xs-offset-2 col-md-offset-4"><img src="img/vie_pratique/restaurant.png" class="img-circle" data-toggle="collapse" href="#collapseRestaurant" aria-expanded="true"/></div>
+                    <div class="col-xs-2 col-xs-offset-2 col-md-offset-4"><img src="img/vie_pratique/restaurants.png" class="img-circle" data-toggle="collapse" href="#collapseRestaurant" aria-expanded="true"/></div>
                     <div class="col-xs-2"><img src="img/vie_pratique/fastfood.png" class="img-circle" data-toggle="collapse" href="#collapseFastfood"/></div>
                     <div class="col-xs-2"><img src="img/vie_pratique/livraison.png" class="img-circle" data-toggle="collapse" href="#collapseLivraison"/></div>
                     <div class="col-xs-2"><img src="img/vie_pratique/boulangerie.png" class="img-circle" data-toggle="collapse" href="#collapseBoulangerie"/></div>
@@ -248,7 +248,7 @@
             <div class="col-md-6">
                 <div class="row">
                     <div class="col-xs-2 col-xs-offset-4 col-md-offset-0"><img src="img/vie_pratique/supermarches.png" class="img-circle" data-toggle="collapse" href="#collapseSupermarches" aria-expanded="true"/></div>
-                    <div class="col-xs-2"><img src="img/vie_pratique/shopping.png" class="img-circle" data-toggle="collapse" href="#collapseShopping"/></div>
+                    <div class="col-xs-2"><img src="img/vie_pratique/magazins.png" class="img-circle" data-toggle="collapse" href="#collapseShopping"/></div>
                 </div>
                 <div class="row">
                     <div class="collapse in" id="collapseSupermarches">
