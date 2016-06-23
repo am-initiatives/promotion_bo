@@ -39,7 +39,7 @@
 
     <section id="section_ecoles">
         <div class="container">
-            <h2 class="text-uppercase text-couleur text-right">Les écoles présentes sur la campus</h2>
+            <h2 class="text-uppercase text-couleur text-right">Les écoles présentes sur le campus</h2>
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="embed-responsive-item" src="https://www.google.com/maps/d/u/1/embed?mid=1JBKejtUyXrwUORnMFz26oYHiafw"></iframe>
             </div>
